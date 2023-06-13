@@ -1,0 +1,11 @@
+A set is a well-defined collection of objects. The objects in a set are called its elements. Sets can be defined in three ways:
+
+1. **List method:** This method lists the elements of the set, separated by commas, and enclosed in braces. For example, the set of all even numbers greater than 2 can be defined as {4, 6, 8, 10, ...}.
+2. **Set-builder notation:** This method uses a colon to separate the property that defines the elements of the set from the set itself. For example, the set of all even numbers greater than 2 can be defined as {x | x is an even number and x > 2}.
+3. **Description method:** This method describes the elements of the set in words. For example, the set of all even numbers greater than 2 can be defined as the set of all numbers that are divisible by 2 and greater than 2.
+
+The elements of a set must be distinct. This means that no element can appear more than once in a set. For example, the set {1, 2, 2} is not a valid set, because the element 2 appears twice.
+
+Sets can be combined to form new sets. The union of two sets is the collection of elements that are in either set or in both sets. The intersection of two sets is the collection of elements that are in both sets. The difference of two sets is the collection of elements that are in the first set but not in the second set. The complement of a set is the collection of all elements that are not in the set.
+
+Sets are a fundamental concept in mathematics. They are used in almost every branch of mathematics, including algebra, geometry, probability, and statistics.
