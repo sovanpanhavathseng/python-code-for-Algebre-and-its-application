@@ -1,0 +1,13 @@
+The relative complement of a set A in a set B, also known as the set difference of B and A, is the set of elements in B that are not in A. It is denoted by B \ A or B - A.
+
+For example, if A is the set of all even numbers and B is the set of all natural numbers, then the relative complement of A in B is the set of all odd numbers.
+
+The relative complement of a set can be used to represent a variety of concepts in mathematics and computer science. For example, it can be used to represent the set of all elements that are not members of a particular group, or the set of all elements that satisfy a certain condition but not another.
+
+Here are some of the properties of relative complement:
+
+* The relative complement of a set is always a subset of the larger set.
+* The relative complement of a set is always disjoint from the set itself.
+* The relative complement of a set is equal to the complement of the set if the larger set is the universal set.
+
+I hope this helps! Let me know if you have any other questions.
