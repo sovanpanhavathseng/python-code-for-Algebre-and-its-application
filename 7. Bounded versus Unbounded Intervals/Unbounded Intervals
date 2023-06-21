@@ -1,0 +1,19 @@
+An unbounded interval is a set of real numbers that extends to infinity in one or both directions. In other words, there is no largest or smallest number in the interval.
+
+Unbounded intervals are often used to represent sets of numbers that have an infinite range. For example, the set of all real numbers is an unbounded interval.
+
+There are two types of unbounded intervals:
+
+* **Left unbounded intervals:** These intervals extend to infinity on the left side, but have a finite upper bound. For example, the interval (-∞, 2] is a left unbounded interval.
+* **Right unbounded intervals:** These intervals extend to infinity on the right side, but have a finite lower bound. For example, the interval [2, ∞) is a right unbounded interval.
+
+Unbounded intervals can also be half-bounded, which means that they are unbounded in one direction but not the other. For example, the interval (-∞, 0) is a half-bounded interval that is unbounded on the left side but not on the right side.
+
+Here are some examples of unbounded intervals:
+
+* (-∞, ∞)
+* [2, ∞)
+* (-∞, 0)
+* (-∞, -1]
+
+I hope this helps! Let me know if you have any other questions.
