@@ -1,0 +1,18 @@
+Cartesian coordinates in three dimensions are a system for locating points in three-dimensional space. The system is based on three mutually perpendicular coordinate axes: the x-axis, the y-axis, and the z-axis. The origin is the point where the three axes intersect.
+
+The coordinates of a point in three dimensions are a triplet of numbers, usually denoted as (x, y, z). The x-coordinate tells how far the point is from the origin along the x-axis, the y-coordinate tells how far the point is from the origin along the y-axis, and the z-coordinate tells how far the point is from the origin along the z-axis.
+
+Positive values of the coordinates indicate that the point is to the right of the origin, above the origin, and in front of the origin, respectively. Negative values of the coordinates indicate that the point is to the left of the origin, below the origin, and behind the origin, respectively.
+
+For example, the point with coordinates (2, 3, 4) is located 2 units to the right of the origin, 3 units above the origin, and 4 units in front of the origin.
+
+Cartesian coordinates are a convenient way to represent points in three dimensions. They are also used in many mathematical and scientific applications, such as vector calculus, geometry, and computer graphics.
+
+Here are some additional points about Cartesian coordinates in three dimensions:
+
+* The axes can be labeled in any way, as long as they are mutually perpendicular.
+* The origin can be placed anywhere in space.
+* The coordinates of a point can be negative.
+* The coordinates of a point can be zero.
+
+I hope this helps! Let me know if you have any other questions.
