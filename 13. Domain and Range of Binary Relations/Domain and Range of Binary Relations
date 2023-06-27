@@ -1,0 +1,15 @@
+In mathematics, a binary relation is a relationship between two elements. It can be represented as a set of ordered pairs, where each pair consists of the two elements involved in the relationship. The domain of a binary relation is the set of all first components of the ordered pairs in the relation. The range of a binary relation is the set of all second components of the ordered pairs in the relation.
+
+For example, consider the binary relation R = {(1, 2), (2, 3), (3, 4)}. The domain of R is {1, 2, 3}, and the range of R is {2, 3, 4}.
+
+The domain and range of a binary relation can be found by listing all the ordered pairs in the relation and then identifying the unique elements that appear in the first and second components of the pairs, respectively.
+
+Here are some other examples of binary relations:
+
+* The relation "is greater than" on the set of real numbers has domain and range equal to the set of real numbers.
+* The relation "is a factor of" on the set of natural numbers has domain equal to the set of natural numbers and range equal to the set of positive integers.
+* The relation "is equal to" on the set of integers has domain and range equal to the set of integers.
+
+The domain and range of a binary relation can be useful in understanding the properties of the relation. For example, if the domain of a relation is a subset of the range, then the relation is said to be reflexive. If the domain and range are equal, then the relation is said to be symmetric.
+
+I hope this helps! Let me know if you have any other questions.
