@@ -1,0 +1,33 @@
+A multivariable function is a function whose input and/or output is made up of multiple numbers. In contrast, a function with single-number inputs and a single-number outputs is called a single-variable function.
+
+For example, the function `f(x, y) = x^2 + y^2` is a multivariable function because it takes two numbers as input (`x` and `y`) and returns a single number as output (`x^2 + y^2`).
+
+Multivariable functions can be used to model a wide variety of real-world phenomena. For example, the function `f(x, y) = x^2 + y^2` can be used to model the distance between two points in the plane.
+
+Multivariable functions can also be used to solve a wide variety of problems. For example, the derivative of a multivariable function can be used to find the direction of fastest change of the function.
+
+Here are some examples of multivariable functions:
+
+* A function that takes the temperature and humidity as input and returns the air pressure as output.
+* A function that takes the position of a particle as input and returns its velocity as output.
+* A function that takes the price of a product and the quantity demanded as input and returns the total revenue as output.
+
+Multivariable functions can be visualized using graphs, just like single-variable functions. However, the graphs of multivariable functions are typically in three or more dimensions, which can make them difficult to visualize.
+
+There are a number of different ways to represent multivariable functions. One common way is to use a **formula**. For example, the function `f(x, y) = x^2 + y^2` can be represented by the formula `f(x, y) = (x - 1)^2 + (y - 2)^2`.
+
+Another way to represent multivariable functions is to use a **table**. A table of values for a multivariable function lists the input values and the corresponding output values. For example, the following table shows some values of the function `f(x, y) = x^2 + y^2`:
+
+```
+x | y | f(x, y)
+---|---|---|
+1 | 2 | 5
+2 | 3 | 13
+3 | 4 | 25
+```
+
+Finally, multivariable functions can also be represented using **graphs**. A graph of a multivariable function is a three-dimensional (or higher-dimensional) surface that shows the relationship between the input and output values of the function. For example, the following graph shows the surface of the function `f(x, y) = x^2 + y^2`:
+
+[3D graph of the function f(x, y) = x^2 + y^2]
+
+Multivariable functions are a powerful tool for modeling and solving a wide variety of real-world problems. They are used in a wide variety of fields, including physics, chemistry, economics, and engineering.
