@@ -1,0 +1,34 @@
+ The point-slope form of a linear equation is a way of writing the equation of a line that emphasizes the slope of the line and a point on the line. The general form of the point-slope form is:
+
+```
+y - y₁ = m(x - x₁)
+```
+
+where:
+
+* `y - y₁` is the change in the y-value between the point (x₁, y₁) and any other point on the line
+* `m` is the slope of the line
+* `x - x₁` is the change in the x-value between the point (x₁, y₁) and any other point on the line
+
+To use the point-slope form, you need to know the slope of the line and a point that lies on the line. Once you have these two pieces of information, you can plug them into the point-slope form to find the equation of the line.
+
+For example, let's say we know that the slope of a line is 2 and that the line passes through the point (3, 1). We can use the point-slope form to find the equation of the line as follows:
+
+```
+y - 1 = 2(x - 3)
+```
+
+Expanding the right side of the equation, we get:
+
+```
+y - 1 = 2x - 6
+```
+
+So the equation of the line is `y = 2x - 5`.
+
+Here are some other examples of point-slope form equations:
+
+* If the line passes through the points (2, 4) and (5, 7), then the slope of the line is (7 - 4)/(5 - 2) = 3/3 = 1. The point-slope form of the equation of the line is `y - 4 = 1(x - 2)`.
+* If the line has a slope of -2 and passes through the point (0, 0), then the point-slope form of the equation of the line is `y = -2x`.
+
+The point-slope form is a useful way to write the equation of a line because it is easy to remember and use. It is also the most basic form of the equation of a line, so it is often the starting point for other forms of the equation, such as slope-intercept form.
