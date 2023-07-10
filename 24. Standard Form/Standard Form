@@ -1,0 +1,33 @@
+Standard form is a way of writing numbers in a way that makes them easier to compare and understand. It is written as follows:
+
+```
+a × 10ⁿ
+```
+
+where:
+
+* a is a real number between 1 and 10
+* n is an integer
+
+For example, the number 123,000,000 in standard form is written as:
+
+```
+1.23 × 10⁸
+```
+
+This means that the number is equal to 1.23 multiplied by 10 to the power of 8, which is equal to 123,000,000.
+
+There are a few rules that you need to follow when writing numbers in standard form:
+
+* The first digit of a in standard form must be between 1 and 10.
+* The exponent n must be a positive or negative integer.
+* If the exponent is positive, it tells you how many times you need to move the decimal point to the right.
+* If the exponent is negative, it tells you how many times you need to move the decimal point to the left.
+
+Here are some more examples of numbers written in standard form:
+
+* 1,000,000 = 1 × 10⁶
+* 0.0001 = 1 × 10⁻³
+* 123,456 = 1.23456 × 10⁵
+
+I hope this helps!
