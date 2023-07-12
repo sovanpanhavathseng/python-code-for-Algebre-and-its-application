@@ -1,0 +1,48 @@
+Solving literal equations is a process of isolating a variable in an equation that contains multiple variables. The basic steps involved in solving literal equations are as follows:
+
+1.  **Identify the variable you want to solve for.**
+2.  **Use inverse operations to get the variable by itself.**
+3.  **Simplify the equation and check your answer.**
+
+Here are some examples of solving literal equations:
+
+**Example 1:**
+
+* **Equation:** $2x + 3y = 15$
+* **Variable to solve for:** $x$
+
+To solve for $x$, we need to get it by itself. We can do this by subtracting $3y$ from both sides of the equation, and then dividing both sides by $2$.
+
+```
+2x + 3y = 15
+2x + 3y - 3y = 15 - 3y
+2x = 15 - 3y
+2x / 2 = (15 - 3y) / 2
+x = (15 - 3y) / 2
+```
+
+**Example 2:**
+
+* **Equation:** $3x - y = 10$
+* **Variable to solve for:** $y$
+
+To solve for $y$, we need to get it by itself. We can do this by adding $x$ to both sides of the equation, and then multiplying both sides by $-1$.
+
+```
+3x - y = 10
+3x - y + x = 10 + x
+2x - y = 10 + x
+-(2x - y) = -(10 + x)
+y = -10 - x
+```
+
+As you can see, solving literal equations is just like solving regular equations, except that you have to be careful to keep track of the variables and to simplify the equations correctly.
+
+Here are some tips for solving literal equations:
+
+* **Always start by identifying the variable you want to solve for.**
+* **Use inverse operations to get the variable by itself.**
+* **Be careful not to combine unlike terms.**
+* **Simplify the equation and check your answer.**
+
+I hope this helps! Let me know if you have any other questions.
