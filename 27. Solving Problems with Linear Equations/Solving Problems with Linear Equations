@@ -1,0 +1,19 @@
+Linear equations are equations of the form ax + by = c, where a, b, and c are constants and x and y are variables. They can be used to solve a wide variety of problems, both in mathematics and in real-world applications.
+
+Here are some of the steps involved in solving problems with linear equations:
+
+1. **Read the problem carefully and identify the unknowns.** What are the variables that you need to solve for?
+2. **Translate the problem into a mathematical equation.** This may involve using known formulas, or simply setting up an equation that represents the given situation.
+3. **Solve the equation.** This can be done using the following methods:
+    * **Graphing method:** Graph the two equations and look for the point where they intersect. This will be the solution to the system of equations.
+    * **Substitution method:** Substitute one of the variables in one equation for the other variable, and then solve for the remaining variable.
+    * **Linear combination method:** Add or subtract the two equations in such a way that one of the variables is eliminated. Then, solve for the remaining variable.
+4. **Check your solution.** Substitute the solution back into the original equations to make sure that it makes the equations true.
+
+Here are some examples of problems that can be solved with linear equations:
+
+* **Finding the dimensions of a rectangle.** If the length of a rectangle is 3x + 2 and the width is 2x - 1, then the area of the rectangle is (3x + 2)(2x - 1) = 6x^2 - x - 2. You can solve for x and then find the length and width of the rectangle.
+* **Finding the cost of two items.** If one item costs $2x + 5 and the other item costs $3x + 7, then the total cost of the two items is $2x + 5 + $3x + 7 = $5x + 12. You can solve for x and then find the cost of each item.
+* **Finding the speed of two cars.** If the speed of one car is 5x - 2 and the speed of the other car is 4x + 3, then the difference in their speeds is (5x - 2) - (4x + 3) = x - 5. You can solve for x and then find the speed of each car.
+
+These are just a few examples of the many problems that can be solved with linear equations. If you are faced with a problem that involves a linear relationship, you can use the steps outlined above to solve it.
