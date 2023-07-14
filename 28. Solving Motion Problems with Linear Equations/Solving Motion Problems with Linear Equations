@@ -1,0 +1,51 @@
+Linear equations can be used to solve motion problems by relating the three basic quantities of motion: **distance**, **speed**, and **time**. The following are the three basic equations of linear motion:
+
+* **Distance:** _d_ = _s_ * _t_
+* **Speed:** _v_ = _u_ + _at_
+* **Acceleration:** _a_ = (_v_ - _u_) / _t_
+
+In these equations,
+
+* _d_ is the distance traveled
+* _s_ is the speed (which can be constant or changing)
+* _t_ is the time
+* _u_ is the initial speed
+* _a_ is the acceleration
+
+To solve a motion problem, you can choose the equation that best suits the information you are given and the quantity you are trying to find. For example, if you are given the distance and the speed, you can use the first equation to find the time. If you are given the initial speed and the acceleration, you can use the second equation to find the speed at a later time.
+
+Here are some examples of how to solve motion problems with linear equations:
+
+* **Example 1:** A car travels 200 miles at a constant speed of 60 miles per hour. How long does it take the car to travel 200 miles?
+
+In this problem, we are given the distance (200 miles) and the speed (60 miles per hour). We are trying to find the time (_t_).
+
+We can use the first equation, _d_ = _s_ * _t_, to solve for _t_.
+
+```
+200 = 60 * t
+```
+
+```
+t = 200 / 60 = 3.33 hours
+```
+
+Therefore, it takes the car 3.33 hours to travel 200 miles at a constant speed of 60 miles per hour.
+
+* **Example 2:** A train accelerates from rest at a rate of 2 meters per second squared. How long does it take the train to reach a speed of 20 meters per second?
+
+In this problem, we are given the initial speed (0 meters per second) and the acceleration (2 meters per second squared). We are trying to find the time (_t_) it takes the train to reach a speed of 20 meters per second.
+
+We can use the second equation, _v_ = _u_ + _at_, to solve for _t_.
+
+```
+20 = 0 + 2 * t
+```
+
+```
+t = 20 / 2 = 10 seconds
+```
+
+Therefore, it takes the train 10 seconds to reach a speed of 20 meters per second from rest at an acceleration of 2 meters per second squared.
+
+These are just a few examples of how to solve motion problems with linear equations. By understanding the basic equations of motion and how to use them, you can solve a wide variety of motion problems.
