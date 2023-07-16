@@ -1,0 +1,48 @@
+Percentage problems can be solved using linear equations. Here are the steps involved:
+
+1. **Write the percentage as a decimal or fraction.**
+2. **Let x be the unknown quantity.**
+3. **Set up an equation that expresses the given information in terms of x.**
+4. **Solve the equation for x.**
+5. **Check your answer by substituting it back into the original equation.**
+
+Here is an example of a percentage problem that can be solved using a linear equation:
+
+* **Problem:** A store increases the price of a shirt by 20%. If the original price of the shirt was $50, what is the new price?
+
+* **Solution:** First, we convert the 20% increase to a decimal or fraction. 20% = 20/100 = 0.2.
+* **Let x be the new price of the shirt.**
+* **We know that the original price of the shirt was $50, and that the price increased by 20%.** So, we can set up the following equation:
+
+```
+50 + 0.2x = x
+```
+
+* **Simplifying the left side of the equation, we get:**
+
+```
+0.2x = x - 50
+```
+
+* **Subtracting x from both sides of the equation, we get:**
+
+```
+-0.8x = -50
+```
+
+* **Dividing both sides of the equation by -0.8, we get:**
+
+```
+x = $62.50
+```
+
+* **Checking our answer, we see that it satisfies the original equation.**
+
+As you can see, solving percentage problems with linear equations is a straightforward process. By following the steps outlined above, you can easily solve any percentage problem that you encounter.
+
+Here are some additional tips for solving percentage problems with linear equations:
+
+* **Make sure that you understand the meaning of the percentage given in the problem.** Is it a percentage increase, decrease, or something else?
+* **Express the percentage as a decimal or fraction before you start solving the equation.** This will make the problem easier to work with.
+* **Use variable names that are clear and easy to understand.** This will help you to avoid making mistakes when you are solving the equation.
+* **Check your answer by substituting it back into the original equation.** This will help you to ensure that your answer is correct.
