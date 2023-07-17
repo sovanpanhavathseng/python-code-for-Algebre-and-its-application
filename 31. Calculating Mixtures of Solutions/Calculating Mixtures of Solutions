@@ -1,0 +1,35 @@
+Calculating mixtures of solutions is a common problem in chemistry and many other fields. There are a few different ways to approach this problem, but the most common method is to use the following equation:
+
+```
+Q = Ar
+```
+
+where:
+
+* Q is the quantity of the substance in the solution
+* A is the amount of the solution
+* r is the percent concentration of the substance in the solution
+
+For example, let's say we have a 10% salt solution and we want to know how many grams of salt are in 500 milliliters of the solution. We can use the following equation to solve for the quantity of salt (Q):
+
+```
+Q = 0.1 * 500 = 50
+```
+
+This tells us that there are 50 grams of salt in 500 milliliters of a 10% salt solution.
+
+Another way to calculate mixtures of solutions is to use a table. In this table, we would list the volume of each solution, the percent concentration of the substance in each solution, and the quantity of the substance in each solution. For example, the table below shows the information for the salt solution problem we just solved:
+
+| Volume (mL) | Percent Concentration | Quantity (g) |
+|---|---|---|
+| 500 | 10% | 50 |
+
+Once we have this information, we can easily calculate the quantity of the substance in any mixture of these two solutions. For example, if we wanted to know how many grams of salt are in a mixture of 250 mL of the 10% salt solution and 250 mL of a 50% salt solution, we would simply add the quantities of salt from each solution:
+
+```
+Quantity of salt = 50 + 125 = 175 g
+```
+
+This tells us that there are 175 grams of salt in a mixture of 250 mL of a 10% salt solution and 250 mL of a 50% salt solution.
+
+I hope this helps! Let me know if you have any other questions.
