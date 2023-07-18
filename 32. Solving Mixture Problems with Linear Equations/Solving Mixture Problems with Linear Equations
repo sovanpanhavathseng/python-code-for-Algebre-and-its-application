@@ -1,0 +1,46 @@
+Mixture problems are a type of word problem that involves combining two or more substances to create a new substance with different properties. These problems can be solved using linear equations, by setting up two or more equations that describe the relationships between the different quantities in the problem.
+
+For example, let's say you have a 100-liter tank of water that is 40% acid. You want to add pure water to the tank until the acid concentration is 30%. How many liters of pure water do you need to add?
+
+We can set up two equations to represent this problem. The first equation will represent the amount of acid in the tank before and after you add the pure water. The second equation will represent the total volume of the tank before and after you add the pure water.
+
+Let x be the number of liters of pure water you add to the tank. The first equation is then:
+
+```
+0.4(100) + x = 0.3(100 + x)
+```
+
+The second equation is:
+
+```
+100 + x = 100 + x
+```
+
+We can now solve these equations for x. Simplifying the first equation, we get:
+
+```
+40 + x = 30 + 3x
+```
+
+Solving for x, we get:
+
+```
+2x = 10
+```
+
+```
+x = 5
+```
+
+Therefore, you need to add 5 liters of pure water to the tank to dilute the acid concentration to 30%.
+
+This is just one example of how mixture problems can be solved using linear equations. By setting up the appropriate equations, you can solve any mixture problem that you encounter.
+
+Here are some tips for solving mixture problems with linear equations:
+
+* Identify the different quantities in the problem and assign variables to them.
+* Write down two or more equations that describe the relationships between the different quantities.
+* Solve the equations for the unknown quantities.
+* Check your answer to make sure it makes sense.
+
+With a little practice, you'll be able to solve mixture problems with linear equations like a pro!
