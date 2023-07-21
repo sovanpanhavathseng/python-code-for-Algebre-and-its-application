@@ -1,0 +1,50 @@
+A system of linear equations in two variables is a set of two equations that contain two variables, such as x and y. The solution to a system of linear equations in two variables is any ordered pair that satisfies both equations.
+
+There are three types of systems of linear equations in two variables:
+
+* **Independent systems** have exactly one solution. The graphs of the equations intersect at a single point.
+* **Dependent systems** have infinitely many solutions. The graphs of the equations are the same line.
+* **Inconsistent systems** have no solutions. The graphs of the equations do not intersect.
+
+Here are some examples of systems of linear equations in two variables:
+
+* **Independent system:**
+
+```
+x + y = 3
+2x + 2y = 6
+```
+
+The graphs of these equations are shown below. The lines intersect at the point (3, 0), so the system has exactly one solution.
+
+[Image of a graph of two lines intersecting at point (3, 0)]
+
+* **Dependent system:**
+
+```
+x + y = 2
+2x + 2y = 4
+```
+
+The graphs of these equations are shown below. The lines coincide, so the system has infinitely many solutions.
+
+[Image of a graph of two lines coinciding]
+
+* **Inconsistent system:**
+
+```
+x + y = 3
+x + y = 1
+```
+
+The graphs of these equations are shown below. The lines do not intersect, so the system has no solutions.
+
+[Image of two lines that do not intersect]
+
+There are many methods for solving systems of linear equations in two variables. Some of the most common methods include:
+
+* **Graphing:** This method involves graphing the two equations on the same set of axes. The solution to the system is the point where the two lines intersect.
+* **Substitution:** This method involves solving one of the equations for one of the variables in terms of the other variable. Then, the expression for the variable is substituted into the second equation, and the resulting equation is solved for the remaining variable.
+* **Elimination:** This method involves adding or subtracting the two equations in such a way that one of the variables is eliminated. Then, the resulting equation can be solved for the remaining variable.
+
+The best method for solving a particular system of linear equations depends on the form of the equations and the desired solution.
