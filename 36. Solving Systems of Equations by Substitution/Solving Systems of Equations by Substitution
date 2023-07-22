@@ -1,0 +1,57 @@
+Solving systems of equations by substitution is a method of solving a system of two linear equations by expressing one of the variables in terms of the other variable and substituting that expression into the other equation. This can be done if at least one of the equations is already solved for one of the variables.
+
+To solve a system of equations by substitution, follow these steps:
+
+1. Solve one of the equations for one of the variables.
+2. Substitute the expression from Step 1 into the other equation.
+3. Solve the resulting equation for the other variable.
+4. Substitute the solution from Step 3 into the equation that you solved for in Step 1 to find the value of the first variable.
+5. The solution of the system is the ordered pair of the values that you found for the two variables.
+
+Here is an example of solving a system of equations by substitution:
+
+```
+The system of equations is:
+
+```
+
+* `x + y = 5`
+* `2x - y = 3`
+
+```
+Solve the first equation for y:
+
+```
+
+* `y = -x + 5`
+
+```
+Substitute this expression into the second equation:
+
+```
+
+* `2x - (-x + 5) = 3`
+* `2x + x - 5 = 3`
+* `3x - 5 = 3`
+* `3x = 8`
+* `x = 8/3`
+
+```
+Substitute `8/3` for x in the first equation:
+
+```
+
+* `(8/3) + y = 5`
+* `y = 5 - 8/3`
+* `y = 17/3`
+
+
+The solution of the system is `(8/3, 17/3)`.
+
+To check that this is the solution, substitute `8/3` for x and `17/3` for y in both of the original equations. The equations will both be true, so `(8/3, 17/3)` is the solution of the system.
+
+Here are some tips for solving systems of equations by substitution:
+
+* Make sure that you solve one of the equations for one of the variables, not both variables.
+* Be careful when substituting expressions into equations. Make sure that you substitute the entire expression, not just a part of it.
+* Check your solution by substituting the values of the variables back into the original equations.
