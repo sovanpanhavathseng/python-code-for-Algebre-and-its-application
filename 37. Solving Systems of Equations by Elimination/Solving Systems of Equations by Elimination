@@ -1,0 +1,53 @@
+The elimination method is a technique for solving systems of linear equations. It works by adding or subtracting the equations in such a way that one of the variables is eliminated.
+
+To solve a system of equations by elimination, you will need to follow these steps:
+
+1. Write both equations in standard form.
+2. Make the coefficients of one variable opposites.
+3. Add or subtract the equations to eliminate one variable.
+4. Solve for the remaining variable.
+5. Substitute the solution from Step 4 into one of the original equations to solve for the other variable.
+6. Check that the ordered pair you found is a solution to both original equations.
+
+Here is an example of how to solve a system of equations by elimination:
+
+```
+Equation 1: 2x + y = 5
+Equation 2: x - y = 2
+```
+
+First, we need to make the coefficients of one variable opposites. In this case, we can make the coefficients of y opposites by multiplying Equation 1 by 1 and Equation 2 by 1. This gives us:
+
+```
+Equation 1: 2x + y = 5
+Equation 2: x - y = 2
+```
+
+Now, we can add the equations to eliminate y. This gives us:
+
+```
+3x = 7
+```
+
+Solving for x, we get x = 7/3. We can then substitute this value into Equation 1 to solve for y. This gives us:
+
+```
+2(7/3) + y = 5
+```
+
+```
+14/3 + y = 5
+```
+
+```
+y = 1/3
+```
+
+Therefore, the solution to the system of equations is (7/3, 1/3).
+
+Here are some tips for solving systems of equations by elimination:
+
+* Make sure that the equations are in standard form before you start.
+* Pay attention to the signs of the coefficients when you are adding or subtracting the equations.
+* If you find that you cannot eliminate one of the variables, try multiplying one or both equations by a different number.
+* Check your solution by substituting the values you found for x and y into both original equations.
