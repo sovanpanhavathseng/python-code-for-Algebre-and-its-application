@@ -1,0 +1,20 @@
+In set theory, the complement of a set A is the collection of all elements that are not members of A. The relative complement of A in B is the collection of all elements that are in B but not in A.
+
+The difference between the complement and the relative complement is that the complement is defined with respect to a universal set, while the relative complement is defined with respect to a specific set. The universal set is the set that contains all the elements under study. In most cases, the universal set is assumed to be the set of real numbers, but it can be any set that is relevant to the problem at hand.
+
+The complement of A is denoted by A'. The relative complement of A in B is denoted by A \ B.
+
+Here are some examples of complements and relative complements:
+
+* The complement of the set of even numbers is the set of odd numbers.
+* The relative complement of the set of even numbers in the set of integers is the set of odd integers.
+* The complement of the set of positive real numbers is the set of non-positive real numbers.
+* The relative complement of the set of positive real numbers in the set of real numbers is the set of non-positive real numbers.
+
+Complements and relative complements have many applications in mathematics, statistics, and computer science. Here are a few examples:
+
+* In probability theory, the complement of an event is the event that does not occur. For example, the complement of the event "the coin lands heads" is the event "the coin lands tails."
+* In statistics, the complement of a sample is the set of all elements that are not in the sample. For example, the complement of a sample of 100 people is the set of all people in the population who are not in the sample.
+* In computer science, the complement of a bit is the opposite of the bit. For example, the complement of the bit 0 is the bit 1.
+
+I hope this helps! Let me know if you have any other questions.
