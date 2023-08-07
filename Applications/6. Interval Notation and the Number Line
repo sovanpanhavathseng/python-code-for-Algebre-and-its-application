@@ -1,0 +1,20 @@
+Interval notation is a way of writing sets of real numbers on a number line. It is used to represent intervals that are open, closed, or half-open.
+
+* **Open intervals** do not include their endpoints. They are denoted by using parentheses around the endpoints. For example, the interval (-2, 3) represents all real numbers between -2 and 3, but not including -2 or 3.
+* **Closed intervals** include their endpoints. They are denoted by using brackets around the endpoints. For example, the interval [-2, 3] represents all real numbers between -2 and 3, including -2 and 3.
+* **Half-open intervals** include one endpoint but not the other. They are denoted by using a parenthesis around the endpoint that is not included. For example, the interval (-2, 3) represents all real numbers greater than -2 but less than 3.
+
+Interval notation can be used to represent solutions to inequalities. For example, the inequality x > 2 can be represented by the interval notation (2, infinity). This means that all real numbers greater than 2 are solutions to the inequality.
+
+Interval notation can also be used to graph inequalities on a number line. For example, the inequality x < 3 can be graphed by shading in all the numbers on the number line that are less than 3. The endpoints of the shaded region are not included, so they are represented by open circles.
+
+Interval notation is a useful tool for representing sets of real numbers and solutions to inequalities. It is also a helpful way to graph inequalities on a number line.
+
+Here are some additional applications of interval notation:
+
+* Representing sets of data in statistics
+* Solving problems in calculus
+* Analyzing functions in mathematics
+* Programming in computer science
+
+Interval notation is a versatile tool that can be used in many different areas of mathematics.
