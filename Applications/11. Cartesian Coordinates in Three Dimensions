@@ -1,0 +1,23 @@
+Cartesian coordinates in three dimensions are a system for locating points in space using three numbers. The three numbers, or coordinates, specify the signed distance from the origin along the x, y, and z-axes, respectively.
+
+The origin is the point at which the three axes intersect. The x-axis is the horizontal axis, the y-axis is the vertical axis, and the z-axis is the axis that points out of the page.
+
+To find the Cartesian coordinates of a point, we start at the origin and move along the x-axis the number of units specified by the x-coordinate. Then, we move parallel to the y-axis the number of units specified by the y-coordinate. Finally, we move parallel to the z-axis the number of units specified by the z-coordinate.
+
+For example, the point with coordinates (2, 3, 4) is located 2 units to the right of the origin, 3 units up from the origin, and 4 units in front of the origin.
+
+Cartesian coordinates are used in many different fields, including:
+
+* Mathematics: Cartesian coordinates are used to represent points in space, to define geometric shapes, and to solve equations.
+* Physics: Cartesian coordinates are used to describe the motion of objects in space, to define forces, and to calculate work and energy.
+* Engineering: Cartesian coordinates are used to design and analyze structures, to create maps, and to control robots.
+* Computer graphics: Cartesian coordinates are used to represent objects in 3D space, to create animations, and to simulate games.
+
+Here are some specific examples of how Cartesian coordinates are used in these fields:
+
+* In mathematics, Cartesian coordinates are used to define the points on the Cartesian plane. The Cartesian plane is a two-dimensional grid of points that can be used to represent points in space.
+* In physics, Cartesian coordinates are used to define the position and velocity of objects in space. The position of an object is its location in space, and the velocity of an object is its speed and direction of motion.
+* In engineering, Cartesian coordinates are used to design and analyze structures. For example, engineers use Cartesian coordinates to calculate the forces acting on a bridge or building.
+* In computer graphics, Cartesian coordinates are used to represent objects in 3D space. For example, computer graphics artists use Cartesian coordinates to create models of cars, buildings, and people.
+
+Cartesian coordinates are a powerful tool for representing points in space. They are used in many different fields, and they have a wide range of applications.
