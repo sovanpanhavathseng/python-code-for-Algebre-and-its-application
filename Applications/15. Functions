@@ -1,0 +1,46 @@
+
+នៅក្នុងអក្សរវិជ្ជាជីវៈ, "អនុគមន៍" គឺជាគំរូក្នុងបរិមាណវិធីដែលមាននិមួយៗត្រូវបានកំណត់ដោយនិមួយៗតាងដោយកូដនិងមានបញ្ហាច្រើនទៀត។ អនុគមន៍មួយមាននៅក្នុងបរិមាណអក្សរតូចតូចដូចប្រវែងនៃពាក្យទាក់ទងគ្នានិងនៅក្នុងបរិមាណនៃសញ្ញាសម្គាល់នៃអក្សរដែលត្រូវប្រើជា "ចន្លោះ" និងអ្វីដែលកើតឡើងក្នុងអនុគមន៍នោះ។
+
+នៅក្នុងអាជ្ញាបណ្ណនៃកិច្ចការសិក្សានេះមានចំណុចច្បាស់ទីបីដែលត្រូវបានលើកឡើង។
+
+តម្លៃដែលផ្គុំពីការកែប្រែឬកម្មករ: អនុគមន៍អាចប្រើដើម្បីកែប្រែឬកម្មករលើតម្លៃប្រហែលជាកន្សោមនៃចំណុចក្នុងបរិមាណ។ ឧបករណ៍មួយគឺ៖ អនុគមន៍ 
+�
+(
+�
+)
+=
+2
+�
++
+3
+f(x)=2x+3 ប្រើដើម្បីបូកចំនួនទាំងពីរគ្នា។
+
+កន្លែងនៃរូបភាពឬក្រាហ្វិក: អនុគមន៍អាចត្រូវបានប្រើដើម្បីកំណត់កន្លែងនៃរូបភាពឬក្រាហ្វិកក្នុងតម្លៃនៃចំណុចមួយ។
+
+ទ្រឹស្ដីខ្លះនៃអនុគមន៍: ប្រសិនបើអនុគមន៍ប្រើប្រាស់ច្រើនដូចគ្នាៗនោះវាអាចត្រូវបានប្រើដើម្បីផ្លាស់ប្តូរតម្លៃនៃចំណុចមួយ។
+
+ដឺក្រេទីពីរនៃក្រាហ្វិក: អនុគមន៍អាចត្រូវបានប្រើដើម្បីសរសេរក្រាហ្វិកដែលមានដឺក្រេទីពីរដូចជាលើកម្រាញ់ក្នុងបរិមាណពីរប្រហែលជាចំណុចមួយ។
+
+ចម្លងពីរសម្រាប់គណនាលីមីតនៃអនុគមន៍: អនុគមន៍អាច
+
+A function is a mathematical relation between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output. In other words, a function is a rule that takes an input and gives you an output.
+
+There are many different types of functions, but some of the most common ones include:
+
+* Constant functions: These functions always return the same output, regardless of the input. For example, the function f(x) = 1 is a constant function.
+* Linear functions: These functions have a slope of 1. For example, the function f(x) = x + 1 is a linear function.
+* Quadratic functions: These functions have a quadratic curve. For example, the function f(x) = x^2 is a quadratic function.
+* Exponential functions: These functions grow at an exponential rate. For example, the function f(x) = 2^x is an exponential function.
+
+Functions have many applications in the real world. Here are a few examples:
+
+* In physics, functions are used to model the motion of objects. For example, the function f(x) = -9.8t^2 + 200 models the height of a falling object after t seconds.
+* In economics, functions are used to model the supply and demand of goods and services. For example, the function f(p) = -ap + b models the demand for a good as a function of its price p.
+* In engineering, functions are used to design and analyze structures. For example, the function f(x) = x^3 - 2x^2 + x - 1 models the stress on a beam as a function of its length x.
+* In computer science, functions are used to modularize code and make it easier to understand and maintain. For example, the function factorial(n) calculates the factorial of a number n.
+
+These are just a few examples of the many ways that functions are used in the real world. Functions are a powerful tool that can be used to model and solve problems in a variety of fields.
+
+The Python code you provided is an example of a function that calculates the factorial of a number. The function takes an input n and returns the factorial of n, which is the product of all the positive integers less than or equal to n. For example, factorial(5) = 120, which is the product of 1, 2, 3, 4, and 5.
+
+Functions are an important part of programming, and they can be used to solve a wide variety of problems. The factorial function is just one example of a useful function that can be implemented in Python.
