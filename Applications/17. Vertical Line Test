@@ -1,0 +1,42 @@
+The vertical line test is a graphical method of determining if a curve in the plane represents the graph of a function. A function can only have one output, y, for each unique input, x. If a vertical line intersects a curve on an xy-plane more than once then for one value of x the curve has more than one value of y, and so, the curve does not represent a function. If all vertical lines intersect a curve at most once then the curve represents a function.
+
+The vertical line test is applied by drawing a vertical line anywhere on the graph of the curve. If the vertical line intersects the curve at more than one point, then the curve does not represent a function. If the vertical line intersects the curve at only one point, then the curve represents a function.
+
+Here are some examples of curves that pass the vertical line test:
+
+* The graph of y = x is a line, and any vertical line intersects the graph at exactly one point.
+* The graph of y = x^2 is a parabola, and any vertical line intersects the graph at exactly one point.
+* The graph of y = sin(x) is a sine wave, and any vertical line intersects the graph at most one point.
+
+Here are some examples of curves that do not pass the vertical line test:
+
+* The graph of y = |x| is a "V" shape, and any vertical line intersects the graph at two points.
+* The graph of y = x^2 + 1 is a parabola, but if we shift it up by 1 unit, the vertical line will intersect the graph at two points.
+* The graph of y = x^2 + sin(x) is a curve that intersects itself, and any vertical line that intersects the graph will intersect it at more than one point.
+
+The vertical line test is a simple but effective way to determine if a curve represents a function. It is often used in introductory calculus courses, and it can also be used in other areas of mathematics, such as geometry and trigonometry.
+
+Here are some additional applications of the vertical line test:
+
+* In computer graphics, the vertical line test is used to determine if a point is inside or outside a polygon.
+* In machine learning, the vertical line test is used to determine if a data set is linearly separable.
+* In economics, the vertical line test is used to determine if a demand curve is a function.
+
+The vertical line test is a versatile tool that can be used in many different applications. It is a valuable tool for anyone who works with graphs and functions.
+
+
+"Vertical Line Test" ជាគន្លងពិសេសនៃលំហូរតាមផ្លូវបញ្ជួនក្រាបតាងជាអត្ថបទនៃលំហូរឬបន្ទាត់ដែលមានស្រាប់នៅលើប្លូវដែលអនុគមន៍មិនមានរួចទេ។ វាត្រូវបានប្រើជា​វិធានការដឺក្រេទីតាមគន្លងពិសេសដើម្បីពិនិត្យបញ្ជួនចម្រុះរបស់វិធានការ។
+
+ក្រាបនៃអត្ថបទកំណត់ចំពោះប៉ុណ្ណោះត្រូវបានបង្ហាញជាផ្លូវបំផុតពីលើទៅក្រោមនៅលើគន្លងពិសេស។ ប្រសិនបើទម្រង់មិនអប្បបរមារបស់បន្ទាត់ដូចគ្នា នោះអត្ថបទមានជាប់ស្រាប់នៅលើក្រាប។
+
+នៅពេលដែលមានអត្ថបទនៅលើប្លូវដែលមានតម្លៃសមបាត់ទាំងនោះចម្លងទៅទីផ្សំពីលើទៅក្រោមរបស់ប្រវែងនោះហើយនៅក្នុងក្រាបគ្រប់បន្ទាត់រង្វង់ទៅតាមទិសដៅផ្សំ។
+
+ឧទាហរណ៍:
+បើកើនប្រវែងរបស់ក្រាបក្នុងក្រាបនោះប្រវែងនៅក្នុងក្រាបប្រវែងទីមួយមានតម្លៃនៃអត្ថបទក្នុងលំហូរពីលើទៅក្រោម។
+
+វាបង្ហាញពីក្រាបនៃអត្ថបទដែលមិនទាន់មានរួចនៅក្នុងក្រាបក្រោមនេះ។
+
+ទោះបីជា បើមានបន្ទាត់នៅលើក្រាបដែលត្រូវបានគូសជាត្រង់នោះ នោះអត្ថបទមិនអាចកើនបរិមាណរបស់វិធានការពិនិត្យបញ្ជួនបាន។
+
+ឧទាហរណ៍:
+ក្រាបនៃអត្ថបទមួយមានបន្ទាត់នៅលើវិធានការចម្បងនៃក្រាប។ អត្ថបទក្នុងលំហូរចម្បងមានតម្លៃបរិមាណក្រោមនៃបន្ទាត់នោះទៅពីលើទៅក្រោម។ ពិនិត្យបញ្ជួនបានហើយដោយគ្រប់គ្រ
