@@ -1,0 +1,34 @@
+The two-point form of a line is a way to represent the equation of a line when two points on the line are known. The equation is:
+
+```
+y - y1 = (y2 - y1)/(x2 - x1) * (x - x1)
+```
+
+where (x1, y1) and (x2, y2) are the two points on the line.
+
+To use the two-point form, simply substitute the coordinates of the two points into the equation. For example, if the two points are (1, 2) and (3, 5), then the equation of the line is:
+
+```
+y - 2 = (5 - 2)/(3 - 1) * (x - 1)
+```
+
+```
+y - 2 = 3(x - 1)
+```
+
+```
+y = 3x - 1
+```
+
+The two-point form is a useful way to find the equation of a line when only two points on the line are known. It is also a more general form than the slope-intercept form, as it can be used to represent lines with any slope.
+
+Here are some of the applications of the two-point form:
+
+* Finding the equation of a line given two points on the line.
+* Finding the slope of a line given two points on the line.
+* Finding the distance between two points on a line.
+* Determining whether two lines are parallel, perpendicular, or neither.
+* Determining whether a point lies on a line.
+* Graphing a line given its equation.
+
+I hope this helps! Let me know if you have any other questions.
