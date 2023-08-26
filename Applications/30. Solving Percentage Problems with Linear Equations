@@ -1,0 +1,49 @@
+Percentage problems can be solved using linear equations by representing the percentage as a decimal and then setting up an equation with the known and unknown quantities.
+
+Here are the steps on how to solve percentage problems with linear equations:
+
+1. **Convert the percentage into a decimal.** To do this, divide the percentage by 100. For example, 25% is equal to 25/100 = 0.25.
+2. **Identify the known and unknown quantities.** The known quantities are the values that are given in the problem, and the unknown quantities are the values that you need to solve for.
+3. **Set up an equation with the known and unknown quantities.** The equation should relate the percentage to the known and unknown quantities.
+4. **Solve the equation.** You can solve the equation using the usual methods for solving linear equations.
+5. **Interpret the answer.** Make sure that your answer makes sense in the context of the problem.
+
+Here are some examples of how to solve percentage problems with linear equations:
+
+* **Example 1:** A store increases the price of a shirt by 25%. If the original price of the shirt was $50, what is the new price?
+
+In this problem, the percentage is 25% and the known quantity is the original price of the shirt ($50). The unknown quantity is the new price of the shirt.
+
+We can set up the following equation:
+
+```
+0.25 * 50 = new price
+```
+
+Solve the equation to get:
+
+```
+new price = $12.50
+```
+
+The new price of the shirt is $12.50.
+
+* **Example 2:** A company's profits increase by 10% from one year to the next. If the profits last year were $100,000, what are the profits this year?
+
+In this problem, the percentage is 10% and the known quantity is the profits last year ($100,000). The unknown quantity is the profits this year.
+
+We can set up the following equation:
+
+```
+0.1 * 100,000 = profits this year
+```
+
+Solve the equation to get:
+
+```
+profits this year = $10,000
+```
+
+The profits this year are $10,000.
+
+Linear equations can be used to solve a variety of percentage problems. These problems can be found in many different areas, such as business, finance, and math. By understanding how to solve percentage problems with linear equations, you can be better equipped to solve real-world problems that involve percentages.
