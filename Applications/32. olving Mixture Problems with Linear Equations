@@ -1,0 +1,28 @@
+Mixture problems are a type of applied problem that can be solved using linear equations. In a mixture problem, there are two or more substances that are combined to form a new substance. The problem typically involves determining the amount of each substance that needs to be combined to achieve a desired result.
+
+To solve a mixture problem using linear equations, we first need to identify the variables that we are dealing with. The variables will typically represent the amount of each substance that is used in the mixture. We can then set up a system of linear equations that describes the relationships between the variables.
+
+For example, suppose we have two substances, A and B, that we want to combine to form a new substance, C. Let x be the amount of substance A that we use, and let y be the amount of substance B that we use. We can then set up the following system of linear equations:
+
+```
+x + y = m
+a * x + b * y = c
+```
+
+where:
+
+* m is the total amount of substance C that we want to produce
+* a and b are the concentrations of substance A and substance B in the new substance C
+* c is the desired concentration of substance A in the new substance C
+
+We can then solve this system of linear equations to find the values of x and y.
+
+Mixture problems can be applied to a wide variety of real-world situations. For example, they can be used to determine the amount of two different types of gasoline that need to be mixed together to produce a desired octane rating, or the amount of two different types of paint that need to be mixed together to produce a desired shade of color.
+
+Here are some other examples of mixture problems:
+
+* A chemist wants to mix two solutions, one that is 20% acid and one that is 60% acid, to produce a solution that is 30% acid. How much of each solution should the chemist use?
+* A baker wants to mix two types of flour, one that is 10% protein and one that is 12% protein, to produce a blend that is 11% protein. How much of each type of flour should the baker use?
+* A brewer wants to mix two types of hops, one that has a bittering rating of 50 and one that has a bittering rating of 80, to produce a blend that has a bittering rating of 65. How much of each type of hops should the brewer use?
+
+Mixture problems can be challenging to solve, but they can be solved using linear equations. By understanding how to set up and solve these types of problems, you can apply them to a variety of real-world situations.
