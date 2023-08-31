@@ -1,0 +1,31 @@
+Solving systems of equations by substitution is a method of finding the solution(s) of a system of two linear equations in two variables. The steps are as follows:
+
+1. Solve one of the equations for one of the variables.
+2. Substitute the expression for that variable into the other equation.
+3. Solve the resulting equation for the remaining variable.
+4. Substitute the solution for the remaining variable back into the first equation to find the value of the first variable.
+5. The solution of the system is the ordered pair of the values of the two variables.
+
+For example, consider the system of equations:
+
+```
+x + y = 5
+2x - y = 1
+```
+
+We can solve for y in the first equation to get y = 5 - x. Substituting this into the second equation, we get 2x - (5 - x) = 1. Simplifying the right side of this equation, we get x = 2. Substituting this back into the first equation, we get 2 + y = 5. Solving for y, we get y = 3. Therefore, the solution of the system is (2, 3).
+
+The substitution method can be used to solve any system of two linear equations in two variables. However, it is not always the most efficient method. For example, if the two equations are already solved for one of the variables, then the substitution method can be used to solve the system in one step.
+
+The substitution method can also be used to solve systems of equations with more than two variables. In this case, we would solve for one of the variables in terms of the other variables, and then substitute that expression into the remaining equations.
+
+The substitution method is a versatile method for solving systems of equations. It is easy to understand and implement, and it can be used to solve systems of equations with any number of variables.
+
+Here are some applications of the substitution method:
+
+* In physics, the substitution method can be used to solve problems involving motion, forces, and energy.
+* In chemistry, the substitution method can be used to solve problems involving stoichiometry and equilibrium.
+* In economics, the substitution method can be used to solve problems involving supply and demand.
+* In business, the substitution method can be used to solve problems involving cost, revenue, and profit.
+
+The substitution method is a powerful tool that can be used to solve a wide variety of problems. If you are ever faced with a system of equations, don't forget to consider the substitution method as a possible solution.
