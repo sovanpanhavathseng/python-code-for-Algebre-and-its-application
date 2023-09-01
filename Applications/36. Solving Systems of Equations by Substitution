@@ -1,0 +1,39 @@
+Solving systems of equations by substitution is a method of finding the solution(s) of a system of two linear equations in two variables. The method involves solving one of the equations for one of the variables, and then substituting that expression into the other equation to solve for the other variable.
+
+The steps involved in solving a system of equations by substitution are:
+
+1. Solve one of the equations for one of the variables.
+2. Substitute the expression from Step 1 into the other equation.
+3. Solve the resulting equation for the other variable.
+4. Substitute the solution from Step 3 into the equation from Step 1 to find the value of the first variable.
+
+For example, consider the system of equations:
+
+```
+x + y = 5
+2x - y = 3
+```
+
+We can solve this system by substitution as follows:
+
+1. Solve the first equation for y: y = -x + 5.
+2. Substitute this expression into the second equation: 2x - (-x + 5) = 3.
+3. Simplifying the right side of this equation, we get 3x + 5 = 3.
+4. Subtracting 5 from both sides, we get 3x = -2.
+5. Dividing both sides by 3, we get x = -2/3.
+6. Substituting this value of x into the equation y = -x + 5, we get y = -(-2/3) + 5 = 19/3.
+
+Therefore, the solution of the system is (-2/3, 19/3).
+
+The substitution method can be used to solve any system of linear equations in two variables. However, it is not always the most efficient method. For some systems, it may be easier to solve by graphing the equations or by using elimination.
+
+The substitution method can also be applied to systems of equations in more than two variables. However, the process becomes more complex as the number of variables increases.
+
+Here are some applications of solving systems of equations by substitution:
+
+* In physics, the substitution method can be used to solve problems involving motion, such as finding the distance traveled by an object if its velocity is known.
+* In economics, the substitution method can be used to solve problems involving supply and demand, such as finding the equilibrium price and quantity of a good.
+* In engineering, the substitution method can be used to solve problems involving forces, such as finding the forces acting on a beam.
+* In finance, the substitution method can be used to solve problems involving investments, such as finding the optimal portfolio of stocks.
+
+I hope this helps!
