@@ -1,0 +1,40 @@
+The elimination method works because of the addition property of equality. This property states that if you add the same quantity to both sides of an equation, the resulting equations are still equal.
+
+In the elimination method, we add or subtract the equations in such a way that the coefficients of one variable are equal but with opposite signs. When we do this, the variable with the same coefficients will be eliminated, and we will be left with an equation in one variable. We can then solve for that variable and substitute its value back into the original equations to solve for the other variable.
+
+For example, let's say we have the system of equations:
+
+```
+x + y = 5
+2x - y = 3
+```
+
+We can eliminate the variable `y` by adding the equations together. When we do this, we get:
+
+```
+3x = 8
+```
+
+Solving for `x`, we get `x = 8/3`. We can then substitute this value back into the first equation to solve for `y`:
+
+```
+(8/3) + y = 5
+```
+
+```
+y = 1/3
+```
+
+Therefore, the solution to the system of equations is `(x, y) = (8/3, 1/3)`.
+
+The elimination method can be used to solve systems of linear equations with any number of variables. However, it is most efficient when the coefficients of the variables in the equations are relatively simple.
+
+The elimination method is also used in other areas of mathematics, such as linear algebra and differential equations. It is a powerful tool that can be used to solve a variety of problems.
+
+Here are some other applications of the elimination method:
+
+* In physics, the elimination method can be used to solve systems of equations that describe the motion of objects.
+* In chemistry, the elimination method can be used to solve systems of equations that describe the equilibrium of chemical reactions.
+* In economics, the elimination method can be used to solve systems of equations that describe the supply and demand for goods and services.
+
+The elimination method is a versatile tool that can be used to solve a variety of problems in different fields.
