@@ -1,0 +1,35 @@
+The elimination method works by adding the equations together in such a way that one of the variables is eliminated. This is possible because the addition property of equality states that when we add the same quantity to both sides of an equation, the two sides remain equal.
+
+For example, let's say we have the system of equations:
+
+```
+x + y = 5
+2x + 2y = 10
+```
+
+We can eliminate the variable y by adding the equations together. When we do this, we get:
+
+```
+3x = 15
+```
+
+Dividing both sides of this equation by 3, we get x = 5. We can then substitute this value into either of the original equations to solve for y.
+
+The elimination method can be used to solve systems of equations with any number of variables. However, it is most efficient when the equations have coefficients that are easy to manipulate.
+
+The elimination method is used in many different applications, including:
+
+* Engineering: Solving for the forces and moments acting on a structure
+* Economics: Solving for the supply and demand for a product
+* Physics: Solving for the motion of a particle
+* Linear programming: Solving for the optimal solution to a problem with limited resources
+
+I hope this helps! Let me know if you have any other questions.
+
+Here are some additional things to keep in mind when using the elimination method:
+
+* The equations must have at least one variable in common.
+* The coefficients of the variable that you want to eliminate must be opposite in sign.
+* If the equations have the same coefficients for a variable, you cannot eliminate that variable.
+
+If you are stuck and can't seem to eliminate a variable, try multiplying one of the equations by a constant. This will change the coefficients of the variable, making it easier to eliminate.
