@@ -1,0 +1,17 @@
+A system of equations is said to be **consistent** if it has at least one solution. A system of equations is said to be **inconsistent** if it has no solution.
+
+A system of equations is said to be **dependent** if any solution of one equation is also a solution of the other equation. A system of equations is said to be **independent** if there are solutions that are not solutions of the other equation.
+
+The application of inconsistent, dependent, and independent systems depends on the context in which they are being used. However, some general applications include:
+
+* Inconsistent systems can be used to model situations where there is no possible solution. For example, a system of equations that models the weight of a person and the height of a person would be inconsistent if the person's weight was greater than their height.
+* Dependent systems can be used to model situations where one quantity depends on another quantity. For example, a system of equations that models the temperature of a cup of coffee and the time it takes for the coffee to cool would be dependent because the temperature of the coffee depends on the time it has been cooling.
+* Independent systems can be used to model situations where the quantities are not related to each other. For example, a system of equations that models the number of cars in a parking lot and the number of people in a store would be independent because the number of cars in the parking lot does not affect the number of people in the store.
+
+Here are some specific examples of applications of inconsistent, dependent, and independent systems:
+
+* In physics, inconsistent systems can be used to model situations where there is an impossible outcome. For example, a system of equations that models the velocity and acceleration of a particle would be inconsistent if the particle was accelerating in two different directions at the same time.
+* In engineering, dependent systems can be used to model structures that are supported by each other. For example, a system of equations that models the forces on the supports of a bridge would be dependent because the forces on each support depend on the forces on the other supports.
+* In economics, independent systems can be used to model markets that are not affected by each other. For example, a system of equations that models the price of oil and the price of wheat would be independent because the price of oil does not affect the price of wheat.
+
+I hope this helps! Let me know if you have any other questions.
