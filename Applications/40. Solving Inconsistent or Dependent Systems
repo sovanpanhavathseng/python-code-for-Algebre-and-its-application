@@ -1,0 +1,16 @@
+An inconsistent system of equations is a system that has no solution. This means that the two equations represent parallel lines, and thus lines that do not intersect.
+
+A dependent system of equations is a system that has infinitely many solutions. This means that the two equations represent the same line, and thus every point on the line is a solution to the system.
+
+There are a few ways to solve inconsistent or dependent systems. One way is to use the elimination method. This method involves adding or subtracting the equations in such a way that one of the variables is eliminated. If we are able to eliminate one of the variables, and we are left with a true statement, then the system is inconsistent. If we are not able to eliminate one of the variables, then the system is dependent.
+
+Another way to solve inconsistent or dependent systems is to use the graphing method. This method involves graphing the two equations on the same coordinate plane. If the two lines intersect, then the system is consistent and has one solution. If the two lines do not intersect, then the system is inconsistent. If the two lines coincide, then the system is dependent and has infinitely many solutions.
+
+Here are some applications of solving inconsistent or dependent systems:
+
+* In physics, inconsistent systems can be used to model situations where there is no solution, such as the problem of two trains moving towards each other on a collision course.
+* In economics, dependent systems can be used to model situations where there is a fixed relationship between two variables, such as the demand and supply for a product.
+* In computer science, inconsistent systems can be used to model situations where there is an error in the data, such as a database with duplicate records.
+* In engineering, dependent systems can be used to model situations where there is a feedback loop, such as the control system for a thermostat.
+
+I hope this helps! Let me know if you have any other questions.
