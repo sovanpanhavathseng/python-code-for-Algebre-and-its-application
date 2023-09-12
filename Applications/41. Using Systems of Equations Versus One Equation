@@ -1,0 +1,40 @@
+A system of equations is a set of two or more equations that have the same set of solutions. A single equation, on the other hand, has only one solution.
+
+**When to use a system of equations**
+
+A system of equations is used when there are two or more unknowns and you need to find all the possible solutions. For example, if you are given the price of two items and you want to find the number of each item you can buy with a certain amount of money, you would need to set up a system of two equations.
+
+Another example is when you are given the coordinates of two points and you want to find the equation of the line that passes through them. You would need to set up a system of two equations, one for each point, and then solve for the slope and y-intercept of the line.
+
+**When to use a single equation**
+
+A single equation is used when there is only one unknown and you need to find its value. For example, if you are given the price of an item and you want to find how many of that item you can buy with a certain amount of money, you would only need to set up a single equation.
+
+Another example is when you are given the equation of a line and you want to find the coordinates of a point on that line. You would only need to solve the equation for x or y, depending on which coordinate you are given.
+
+**Applications of systems of equations**
+
+Systems of equations are used in many different applications, such as:
+
+* Geometry: to find the lengths of sides, areas, or volumes of geometric figures
+* Physics: to model the motion of objects
+* Economics: to model the supply and demand of goods and services
+* Engineering: to design structures and machines
+* Computer science: to solve problems in artificial intelligence and machine learning
+
+**Types of systems of equations**
+
+There are three types of systems of equations:
+
+* **Dependent systems** have infinitely many solutions. This happens when the two equations represent the same line.
+* **Independent systems** have exactly one solution. This happens when the two equations represent two different lines that intersect at a single point.
+* **Inconsistent systems** have no solutions. This happens when the two equations represent two parallel lines or two lines that intersect at a point that does not lie in the solution space.
+
+To solve a system of equations, there are many different methods that can be used. Some of the most common methods are:
+
+* **Graphing** the equations and finding the point of intersection
+* **Substitution** solving for one variable in terms of the other and substituting that value into the other equation
+* **Combination** adding or subtracting the equations to eliminate one variable
+* **Gaussian Elimination** a more advanced method that can be used to solve systems of equations with any number of variables
+
+The best method to use depends on the specific system of equations and the desired outcome.
