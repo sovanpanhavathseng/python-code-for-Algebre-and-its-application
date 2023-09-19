@@ -1,0 +1,70 @@
+To solve a system of equations in three variables, we can use the elimination method or the substitution method.
+
+**Elimination method**
+
+To solve a system of equations in three variables using the elimination method, we follow these steps:
+
+1. Choose two equations in the system and eliminate one of the variables from both equations.
+2. Add the two resulting equations together.
+3. Solve for the remaining variable in the resulting equation.
+4. Substitute the value of the solved variable back into one of the original equations and solve for the second variable.
+5. Substitute the values of the first two variables into one of the original equations and solve for the third variable.
+
+**Substitution method**
+
+To solve a system of equations in three variables using the substitution method, we follow these steps:
+
+1. Choose one of the variables in the system and solve for it in terms of the other two variables.
+2. Substitute the expression for the solved variable into the other two equations in the system.
+3. Solve the resulting system of two equations in two variables.
+4. Substitute the values of the solved variables back into the expression for the first variable to find its value.
+
+**Application**
+
+Systems of equations in three variables have many applications in real life. For example, we can use them to solve problems in physics, chemistry, economics, and finance. Here is an example:
+
+**Problem:** Three friends, Alice, Bob, and Carol, have a total of $100. Alice has twice as much money as Bob, and Carol has three times as much money as Bob. How much money does each friend have?
+
+**Solution:** We can represent the amount of money each friend has with the following variables:
+
+* Alice's money: $x$
+* Bob's money: $y$
+* Carol's money: $z$
+
+We can then write down the following system of equations:
+
+```
+x + y + z = 100
+x = 2y
+z = 3y
+```
+
+We can use the substitution method to solve this system. Substituting the second equation into the first and third equations, we get:
+
+```
+2y + y + z = 100
+z = 3y
+```
+
+Adding the two equations together, we get:
+
+```
+5y = 100
+```
+
+Dividing both sides by 5, we get:
+
+```
+y = 20
+```
+
+Substituting this value into the second and third equations, we get:
+
+```
+x = 40
+z = 60
+```
+
+Therefore, Alice has $40, Bob has $20, and Carol has $60.
+
+Systems of equations in three variables can be used to solve a wide variety of problems. By learning how to solve these systems, you will be able to solve many real-world problems.
