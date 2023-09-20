@@ -1,0 +1,51 @@
+**Three Variable Systems with Infinite or Null Solution Sets**
+
+A system of three linear equations in three variables can have one solution, no solutions, or an infinite number of solutions.
+
+* **One solution:** The three planes intersect at a single point.
+* **No solutions:** The three planes are parallel or skew.
+* **Infinite number of solutions:** The three planes intersect in a line or coincide.
+
+**Infinite Solution Sets**
+
+A system of three linear equations has an infinite number of solutions if the three planes intersect in a line or coincide. This can happen in two ways:
+
+1. **The three planes are parallel and have the same slope and y-intercept.** In this case, the planes will coincide, and any solution to one equation is a solution to all three equations.
+2. **The three planes intersect in a line.** In this case, the solutions to the system will be all the points on the line.
+
+**Null Solution Sets**
+
+A system of three linear equations has no solutions if the three planes are parallel or skew. This means that the planes will never intersect, and there is no point that is a solution to all three equations.
+
+**Applications**
+
+Three variable systems with infinite or null solution sets can be used to model a variety of real-world situations. For example:
+
+* **Infinite solution sets:**
+    * A system of equations can be used to model a budget constraint. If all three equations are satisfied, then the budget is balanced. However, there are an infinite number of solutions to the system, which means that there are an infinite number of ways to balance the budget.
+    * A system of equations can be used to model a system of chemical reactions. If all three equations are satisfied, then the system is at equilibrium. However, there are an infinite number of solutions to the system, which means that there are an infinite number of ways to achieve equilibrium.
+* **Null solution sets:**
+    * A system of equations can be used to model a system of constraints on a design problem. If the system has no solutions, then the constraints are too restrictive and the design problem cannot be solved.
+    * A system of equations can be used to model a system of equations that must be satisfied in order for a certain event to occur. If the system has no solutions, then the event cannot occur.
+
+Here is an example of a three variable system with an infinite number of solutions:
+
+```
+x + y + z = 6
+2x + 2y + 2z = 12
+3x + 3y + 3z = 18
+```
+
+All three equations are equivalent to the equation `x + y + z = 6`. This means that the three planes coincide, and any solution to one equation is a solution to all three equations. Therefore, the system has an infinite number of solutions.
+
+Here is an example of a three variable system with no solutions:
+
+```
+x + y + z = 1
+2x + 2y + 2z = 2
+3x + 3y + 3z = 3
+```
+
+The first two equations can be combined to give the equation `x + y + z = 1`. However, the third equation states that `x + y + z = 3`. This is a contradiction, so the system has no solutions.
+
+Three variable systems with infinite or null solution sets can be a powerful tool for modeling and solving real-world problems. By understanding how to solve these systems, we can gain insights into a wide range of phenomena.
