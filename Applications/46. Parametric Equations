@@ -1,0 +1,29 @@
+Parametric equations are a way to describe a curve by defining its coordinates as functions of another variable, called a parameter. This is in contrast to Cartesian equations, which define a curve by explicitly relating the x and y coordinates.
+
+Parametric equations are often used to describe curves that are difficult or impossible to define with Cartesian equations. For example, the following parametric equations define a circle:
+
+```
+x = a * cos(t)
+y = a * sin(t)
+```
+
+where `a` is the radius of the circle and `t` is the parameter. As `t` varies from 0 to 2π, the point (x, y) will trace out a circle.
+
+Parametric equations can also be used to describe motion. For example, the following parametric equations define the trajectory of a projectile:
+
+```
+x = v0 * cos(θ) * t
+y = v0 * sin(θ) * t - 0.5 * g * t^2
+```
+
+where `v0` is the initial velocity of the projectile, `θ` is the launch angle, and `g` is the acceleration due to gravity. As `t` increases, the point (x, y) will trace out the path of the projectile.
+
+Parametric equations have a wide variety of applications in mathematics, physics, engineering, and computer graphics. Here are a few specific examples:
+
+* **Kinematics:** Parametric equations are used to describe the motion of objects, such as projectiles, planets, and robots.
+* **Animation:** Parametric equations are used to create animations of moving objects, such as characters in video games and movies.
+* **Computer graphics:** Parametric equations are used to generate curves and surfaces in computer graphics, such as those used in 3D modeling and rendering.
+* **Physics:** Parametric equations are used to model physical phenomena, such as the motion of a pendulum and the propagation of waves.
+* **Engineering:** Parametric equations are used to design and analyze engineered systems, such as bridges and aircraft.
+
+Overall, parametric equations are a powerful tool for describing and modeling curves, motion, and physical phenomena. They are used in a wide variety of fields, including mathematics, physics, engineering, and computer graphics.
