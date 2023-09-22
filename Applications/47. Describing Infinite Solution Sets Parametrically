@@ -1,0 +1,63 @@
+**Describing Infinite Solution Sets Parametrically**
+
+A parametric equation is an equation that defines a set of points using one or more parameters. The parameters can be any real number, and they can be used to generate all of the points in the set.
+
+Infinite solution sets can be described parametrically by writing the solution set as a system of parametric equations. To do this, we first need to identify the free variables in the system. A free variable is a variable that is not uniquely determined by the other variables in the system.
+
+Once we have identified the free variables, we can write the solution set as a system of parametric equations by letting the free variables be parameters. For example, consider the following system of linear equations:
+
+```
+2x + y + z = 3
+x + 2y + 3z = 4
+```
+
+This system has one free variable, which is z. We can write the solution set to this system parametrically as follows:
+
+```
+x = 1 - 2t
+y = 2t + 1
+z = t
+```
+
+This system of parametric equations represents all of the possible solutions to the original system of linear equations. For any value of t, we can substitute into the equations to find a solution to the system.
+
+**Application of Describing Infinite Solution Sets Parametrically**
+
+Parametric representations of infinite solution sets are useful in a variety of applications. For example, they can be used to:
+
+* Graph the solution set of a system of linear equations.
+* Describe the motion of a particle in space or time.
+* Solve optimization problems.
+* Generate random samples from a distribution.
+
+Here is an example of how to use a parametric representation to graph the solution set of a system of linear equations:
+
+
+Consider the following system of linear equations:
+
+x + y = 2
+2x - y = 4
+
+We can write the solution set to this system parametrically as follows:
+
+x = t + 2
+y = -t + 2
+
+To graph the solution set, we can simply plot the points (t + 2, -t + 2) for all values of t. This will give us a line with a slope of -1 and a y-intercept of 2.
+
+
+Here is an example of how to use a parametric representation to describe the motion of a particle in space and time:
+
+
+Consider a particle that is moving along a straight line at a constant speed. We can describe the motion of the particle parametrically as follows:
+
+x = vt
+y = 0
+z = 0
+
+where v is the speed of the particle and t is time.
+
+This parametric representation describes the particle's motion in three dimensions. For any value of t, we can substitute into the equations to find the particle's position at that time.
+
+
+These are just a few examples of the many applications of parametric representations of infinite solution sets. Parametric representations are a powerful tool that can be used to solve a variety of problems in mathematics, physics, and engineering.
