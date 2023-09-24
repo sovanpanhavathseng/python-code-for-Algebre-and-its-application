@@ -1,0 +1,37 @@
+Three-variable systems in the real world can be used to model a variety of situations. Here is an example of a problem that can be solved using a three-variable system:
+
+**Problem 1:** A company produces three types of products: A, B, and C. The company has a total of 100 machines available to produce these products. Each machine can produce 10 units of product A, 5 units of product B, or 2 units of product C per day. The company wants to produce at least 500 units of product A, 250 units of product B, and 100 units of product C per day. How many machines should be used to produce each product to meet these requirements?
+
+This problem can be modeled by the following three-variable system:
+
+```
+10a + 5b + 2c = 100
+a >= 50
+b >= 250
+c >= 100
+```
+
+where a, b, and c represent the number of machines used to produce products A, B, and C, respectively.
+
+This system can be solved using a variety of methods, such as Gaussian elimination or Cramer's rule. One solution to the system is a = 30, b = 25, and c = 25. This means that the company should use 30 machines to produce product A, 25 machines to produce product B, and 25 machines to produce product C.
+
+**Application:** This problem could be applied to a variety of real-world situations. For example, a company might use this approach to determine how to allocate its production resources to different products in order to meet customer demand and maximize profits.
+
+Another example of a three-variable system in the real world is the following:
+
+**Problem 2:** A chemist wants to mix three solutions, A, B, and C, to create a new solution with specific properties. Solution A contains 50% acid, solution B contains 25% acid, and solution C contains no acid. The chemist wants to create a solution that contains 30% acid. How much of each solution should the chemist mix together?
+
+This problem can be modeled by the following three-variable system:
+
+```
+0.5a + 0.25b + 0c = 0.3(a + b + c)
+a + b + c = 100
+```
+
+where a, b, and c represent the amount of solutions A, B, and C mixed together, respectively.
+
+This system can be solved using the same methods as the first problem. One solution to the system is a = 40, b = 40, and c = 20. This means that the chemist should mix together 40 liters of solution A, 40 liters of solution B, and 20 liters of solution C.
+
+**Application:** This problem could be applied to a variety of real-world situations. For example, a chemist might use this approach to mix different chemicals together to create a new product with specific properties.
+
+Three-variable systems are a powerful tool that can be used to model a variety of real-world situations. By solving these systems, we can gain insights into how to optimize our decisions and achieve our goals.
