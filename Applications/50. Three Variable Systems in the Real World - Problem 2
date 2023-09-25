@@ -1,0 +1,53 @@
+Three Variable Systems in the Real World - Problem 2:
+
+**Problem:** Three points, (1, 2, 3), (4, 5, 6), and (7, 8, 9), lie on a parabola. Find the equation of the parabola.
+
+**Solution:** We can use the system of three equations below to find the coefficients of the quadratic equation for the parabola:
+
+```
+y = ax^2 + bx + c
+```
+
+```
+2 = a(1)^2 + b(1) + c
+```
+
+```
+5 = a(4)^2 + b(4) + c
+```
+
+```
+8 = a(7)^2 + b(7) + c
+```
+
+Solving this system of equations, we get the following values for a, b, and c:
+
+```
+a = 1/2
+```
+
+```
+b = -5
+```
+
+```
+c = 17
+```
+
+Therefore, the equation of the parabola is:
+
+```
+y = 1/2 x^2 - 5 x + 17
+```
+
+**Application:**
+
+This problem could be applied to a real-world situation where we need to find the equation of a parabola that passes through three known points. For example, we could use it to find the equation of the trajectory of a projectile, or the equation of the curve formed by the cross-section of a satellite dish.
+
+Here is a specific example of how this problem could be applied in the real world:
+
+Suppose we are designing a new solar panel and we need to find the shape of the reflector that will focus the sunlight onto the solar cells. We know that the reflector will be a parabola, and we have three points on the parabola: the focus of the parabola, the vertex of the parabola, and a point on the rim of the parabola. We can use the system of three equations above to find the equation of the parabola, and then use this equation to design the reflector.
+
+Another example of how this problem could be applied in the real world is in the field of robotics. Suppose we are programming a robot to move along a parabolic path. We can use the system of three equations above to find the equation of the parabola, and then use this equation to control the robot's movement.
+
+In general, three variable systems can be used to model a wide variety of real-world phenomena. By solving these systems of equations, we can gain insights into the underlying relationships between the variables and make predictions about how the system will behave.
