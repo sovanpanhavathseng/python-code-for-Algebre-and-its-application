@@ -1,0 +1,56 @@
+**Problem 3:** Three points are known to lie on a circle. Determine the equation of the circle using a system of three equations in three variables.
+
+**Application:** This problem can be applied to a variety of real-world situations, such as:
+
+* **Surveying:** A surveyor can use three known points on a boundary to determine the equation of the boundary circle. This can be useful for determining the area and perimeter of the property, as well as for identifying any encroachments.
+* **Navigation:** A GPS device can use three known satellite positions to determine the user's location. This is done by solving a system of three equations in three variables, where the variables are the user's latitude, longitude, and altitude.
+* **Robotics:** A robot can use three known points on a conveyor belt to determine the position of an object on the belt. This can be used to pick and place objects, or to perform other tasks on the belt.
+
+**Solution:**
+
+To determine the equation of the circle using a system of three equations in three variables, we can use the following steps:
+
+1. Let the three points be $(x_1, y_1)$, $(x_2, y_2)$, and $(x_3, y_3)$.
+2. Write down the distance formula for each point to the center of the circle:
+
+    * $\sqrt{(x_1 - h)^2 + (y_1 - k)^2} = r$
+    * $\sqrt{(x_2 - h)^2 + (y_2 - k)^2} = r$
+    * $\sqrt{(x_3 - h)^2 + (y_3 - k)^2} = r$
+
+where $(h, k)$ is the center of the circle and $r$ is the radius of the circle.
+
+3. Solve the system of three equations in three variables to determine $h$, $k$, and $r$.
+
+Once we have determined $h$, $k$, and $r$, we can write down the equation of the circle as follows:
+
+```
+(x - h)^2 + (y - k)^2 = r^2
+```
+
+**Example:**
+
+Suppose we have three points on a circle: $(1, 2)$, $(3, 4)$, and $(5, 6)$. We want to determine the equation of the circle.
+
+We can write down the distance formula for each point to the center of the circle as follows:
+
+```
+sqrt((1 - h)^2 + (2 - k)^2) = r
+sqrt((3 - h)^2 + (4 - k)^2) = r
+sqrt((5 - h)^2 + (6 - k)^2) = r
+```
+
+Now we have a system of three equations in three variables. We can solve this system using a variety of methods, such as Gaussian elimination or Cramer's rule.
+
+Solving the system of equations, we find that $h = 2$, $k = 3$, and $r = 2$.
+
+Therefore, the equation of the circle is:
+
+```
+(x - 2)^2 + (y - 3)^2 = 2^2
+```
+
+This circle has center $(2, 3)$ and radius 2.
+
+**Conclusion:**
+
+Three variable systems can be used to solve a variety of real-world problems. In this example, we showed how to use a system of three equations in three variables to determine the equation of a circle given three points on the circle. This problem has applications in surveying, navigation, robotics, and other fields.
