@@ -1,0 +1,49 @@
+Gaussian elimination, also known as row reduction, is a numerical algorithm for solving systems of linear equations. It is one of the most important algorithms in linear algebra, and it has many applications in science, engineering, and other fields.
+
+The basic idea of Gaussian elimination is to use elementary row operations to transform the system of linear equations into an upper triangular form, where all the coefficients below the diagonal are zero. Once the system is in upper triangular form, it is easy to solve using back substitution.
+
+Here is a simple example of how to use Gaussian elimination to solve a system of two linear equations:
+
+```
+x + y = 2
+2x - y = 1
+```
+
+First, we write the system in augmented matrix form:
+
+```
+[1 1 | 2]
+[2 -1 | 1]
+```
+
+Next, we use elementary row operations to transform the matrix into upper triangular form:
+
+```
+[1 1 | 2]
+[0 -3 | -3]
+```
+
+This is done by subtracting twice the first row from the second row.
+
+Finally, we use back substitution to solve the system:
+
+```
+-3y = -3
+y = 1
+
+x + 1 = 2
+x = 1
+```
+
+Therefore, the solution to the system of linear equations is x = 1 and y = 1.
+
+Gaussian elimination can be used to solve systems of linear equations with any number of variables. It is also used to compute the rank of a matrix, the determinant of a square matrix, and the inverse of an invertible matrix.
+
+Here are some of the applications of Gaussian elimination:
+
+* Solving systems of linear equations in physics, engineering, and other fields
+* Computing the inverse of a matrix, which is used in many different areas of mathematics, including statistics, machine learning, and image processing
+* Finding the least squares solution to a system of linear equations, which is used in data fitting and regression analysis
+* Computing the eigenvalues and eigenvectors of a matrix, which are used in many different areas of science and engineering
+
+Gaussian elimination is a powerful and versatile algorithm that has many applications in a wide variety of fields.
