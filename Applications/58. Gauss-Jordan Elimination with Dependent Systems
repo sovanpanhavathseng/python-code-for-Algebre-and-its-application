@@ -1,0 +1,14 @@
+Gauss-Jordan elimination is a matrix operation that can be used to solve systems of linear equations. It is an extension of Gaussian elimination and is used to find the reduced row echelon form of a matrix. The method involves performing elementary row operations on the augmented matrix of the system until it is in reduced row echelon form. The resulting matrix can then be used to solve the system of equations.
+
+If a system of equations has dependent solutions, then the Gauss-Jordan elimination method can be used to find the general solution. The general solution expresses all possible solutions in terms of one or more free variables.
+
+The applications of Gauss-Jordan elimination include solving systems of linear equations, finding the inverse of a matrix, calculating the determinant of a matrix, and calculating the rank of a matrix ¹³. 
+
+I hope this helps!
+
+Source: Conversation with Bing, 10/1/2023
+(1) 3.3: Solving Systems with Gauss-Jordan Elimination. https://math.libretexts.org/Courses/Community_College_of_Denver/MAT_1320_Finite_Mathematics/03%3A_Solving_Systems_of_Equations/3.03%3A_Solving_Systems_with_Gaussian_Elimination.
+(2) Applications of the Gauss-Jordan elimination method. https://math.stackexchange.com/questions/4384338/applications-of-the-gauss-jordan-elimination-method.
+(3) M.7 Gauss-Jordan Elimination | STAT ONLINE - Statistics Online. https://online.stat.psu.edu/statprogram/reviews/matrix-algebra/gauss-jordan-elimination.
+(4) Program for Gauss-Jordan Elimination Method - GeeksforGeeks. https://www.geeksforgeeks.org/program-for-gauss-jordan-elimination-method/.
+(5) Gauss-Jordan Elimination | Brilliant Math & Science Wiki. https://brilliant.org/wiki/gaussian-elimination/.
