@@ -1,0 +1,17 @@
+I found a video on **YouTube** that examines an example of Gauss-Jordan elimination on a dependent system from Algebra chapter 58, and follows how the planes are geometrically transformed step by step, from a system of three planes, representing three equations, each containing three variables, to a system of two planes representing two equations, each containing only two variables. The result is a simpler system from which a parametric representation of the infinite solution set can then be easily written ¹. 
+
+I also found a **PDF** file that explains how to solve a dependent system of equations by using the Gauss-Jordan method. It includes examples and detailed explanations ².
+
+I hope this helps!
+
+Source: Conversation with Bing, 10/3/2023
+(1) Algebra 59 - A Geometric View of Gauss-Jordan with Dependent Systems .... https://www.youtube.com/watch?v=g4fkSHxEmT0.
+(2) Solving a Dependent System of Equations by Using the Gauss-Jordan Method. https://www.karlin.mff.cuni.cz/~kuncova/en/2021LS_FMat2/02sol.pdf.
+(3) Unit 2: Gauss-Jordan elimination - Harvard University. https://people.math.harvard.edu/~knill/teaching/math22a2018/handouts/lecture02.pdf.
+(4) 2.2: Systems of Linear Equations and the Gauss-Jordan Method. https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_%28Sekhon_and_Bloom%29/02%3A_Matrices/2.02%3A_Systems_of_Linear_Equations_and_the_Gauss-Jordan_Method.
+(5) 2.3: Systems of Linear Equations – Special Cases. https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_%28Sekhon_and_Bloom%29/02%3A_Matrices/2.03%3A_Systems_of_Linear_Equations__Special_Cases.
+(6) C Program for Gauss-Jordan Method - Code with C. https://www.codewithc.com/c-program-for-gauss-jordan-method/.
+(7) 3.3: Solving Systems with Gauss-Jordan Elimination. https://math.libretexts.org/Courses/Community_College_of_Denver/MAT_1320_Finite_Mathematics/03%3A_Solving_Systems_of_Equations/3.03%3A_Solving_Systems_with_Gaussian_Elimination.
+(8) Gaussian elimination - Wikipedia. https://en.wikipedia.org/wiki/Gaussian_elimination.
+(9) Program for Gauss-Jordan Elimination Method - GeeksforGeeks. https://www.geeksforgeeks.org/program-for-gauss-jordan-elimination-method/.
+(10) Linear Algebra/Gauss-Jordan Reduction - Wikibooks. https://en.wikibooks.org/wiki/Linear_Algebra/Gauss-Jordan_Reduction.
