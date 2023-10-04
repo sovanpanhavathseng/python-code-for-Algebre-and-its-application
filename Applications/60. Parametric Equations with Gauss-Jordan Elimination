@@ -1,0 +1,14 @@
+Parametric equations are a set of equations that express a set of quantities as explicit functions of a number of independent variables, known as parameters. Gauss-Jordan elimination is a method used to solve systems of linear equations by transforming the augmented matrix into reduced row-echelon form. The method involves performing elementary row operations on the augmented matrix until it is in reduced row-echelon form. This process can be used to solve systems of linear equations, calculate the rank and determinant of a matrix, and calculate the inverse of a matrix ¹³. 
+
+The applications of Gauss-Jordan elimination are numerous. It can be used to solve systems of linear equations in physics, engineering, economics, and other fields. It can also be used to calculate the inverse of a matrix, which is useful in many applications such as computer graphics, cryptography, and optimization problems ³. 
+
+I hope this helps!
+
+Source: Conversation with Bing, 10/4/2023
+(1) 3.3: Solving Systems with Gauss-Jordan Elimination. https://math.libretexts.org/Courses/Community_College_of_Denver/MAT_1320_Finite_Mathematics/03%3A_Solving_Systems_of_Equations/3.03%3A_Solving_Systems_with_Gaussian_Elimination.
+(2) Applications of the Gauss-Jordan elimination method. https://math.stackexchange.com/questions/4384338/applications-of-the-gauss-jordan-elimination-method.
+(3) (PDF) Application Of Gauss-Jordan Elimination Method In Balancing .... https://www.academia.edu/68409976/Application_Of_Gauss_Jordan_Elimination_Method_In_Balancing_Typical_Chemical_Equations.
+(4) Unit 2: Gauss-Jordan elimination - Harvard University. https://people.math.harvard.edu/~knill/teaching/math22a2018/handouts/lecture02.pdf.
+(5) 2.2: Systems of Linear Equations and the Gauss-Jordan Method. https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_%28Sekhon_and_Bloom%29/02%3A_Matrices/2.02%3A_Systems_of_Linear_Equations_and_the_Gauss-Jordan_Method.
+(6) Gauss jordan elimination - Explanation & Examples - The Story of .... https://www.storyofmathematics.com/gauss-jordan-elimination/.
+(7) Gauss-Jordan Elimination | Brilliant Math & Science Wiki. https://brilliant.org/wiki/gaussian-elimination/.
