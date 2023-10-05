@@ -1,0 +1,16 @@
+Gauss-Jordan elimination is a method used to solve systems of linear equations. It involves a sequence of operations performed on the corresponding matrix of coefficients. The goal is to write the matrix with the number 1 as the entry down the main diagonal and have all zeros above and below. This method can also be used to compute the rank of a matrix, the determinant of a square matrix, and the inverse of an invertible matrix ⁶. 
+
+An inconsistent system is one that has no solution. Inconsistent systems can arise when using Gauss-Jordan elimination. For example, if we have two equations and three unknowns, we may end up with an inconsistent system if one equation is redundant or contradictory ². 
+
+Gauss-Jordan elimination has many applications in mathematics and engineering. It can be used to solve systems of linear equations, find the inverse of a matrix, and compute determinants ⁶. It is also used in computer graphics to transform objects in three-dimensional space ⁶. 
+
+I hope this helps!
+
+Source: Conversation with Bing, 10/5/2023
+(1) Gaussian elimination - Wikipedia. https://en.wikipedia.org/wiki/Gaussian_elimination.
+(2) M.7 Gauss-Jordan Elimination | STAT ONLINE - Statistics Online. https://online.stat.psu.edu/statprogram/reviews/matrix-algebra/gauss-jordan-elimination.
+(3) 3.3: Solving Systems with Gauss-Jordan Elimination. https://math.libretexts.org/Courses/Community_College_of_Denver/MAT_1320_Finite_Mathematics/03%3A_Solving_Systems_of_Equations/3.03%3A_Solving_Systems_with_Gaussian_Elimination.
+(4) Solving a Dependent System of Equations by Using the Gauss-Jordan Method. https://www.karlin.mff.cuni.cz/~kuncova/en/2021LS_FMat2/02sol.pdf.
+(5) Gauss-Jordan Elimination Calculator - Reshish. https://matrix.reshish.com/gauss-jordanElimination.php.
+(6) Lecture 5: Gauss-Jordan elimination - Harvard University. https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/lecture05.pdf.
+(7) Difference between Gauss Elimination Method and Gauss Jordan Method .... https://www.geeksforgeeks.org/difference-between-gauss-elimination-method-and-gauss-jordan-method-numerical-method/.
