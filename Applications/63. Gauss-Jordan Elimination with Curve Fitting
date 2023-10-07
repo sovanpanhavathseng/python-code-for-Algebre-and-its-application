@@ -1,0 +1,16 @@
+Gauss-Jordan elimination is a technique used to solve systems of linear equations. It is an extension of Gaussian elimination and is used to find the reduced row echelon form of a matrix. The method involves performing elementary row operations on the matrix until it is in the desired form. 
+
+Curve fitting is the process of finding a mathematical function that best fits a set of data points. One application of Gauss-Jordan elimination is to find a polynomial function whose graph passes through a given set of data points ⁵. In some cases, the system can have a single unique solution corresponding to a single unique function which includes the points, infinitely many solutions which correspond to infinitely many functions which include the points, or no solution ⁵.
+
+The following video ⁵ provides an example of how Gauss-Jordan elimination can be used to solve systems of linear equations with four or more variables and find a polynomial function that passes through a given set of data points.
+
+I hope this helps!
+
+Source: Conversation with Bing, 10/7/2023
+(1) Chapter 63 - Gauss-Jordan Elimination with Curve Fitting. https://www.youtube.com/watch?v=xTWd9z3I_5A.
+(2) 3.3: Solving Systems with Gauss-Jordan Elimination. https://math.libretexts.org/Courses/Community_College_of_Denver/MAT_1320_Finite_Mathematics/03%3A_Solving_Systems_of_Equations/3.03%3A_Solving_Systems_with_Gaussian_Elimination.
+(3) Unit 2: Gauss-Jordan elimination - Harvard University. https://people.math.harvard.edu/~knill/teaching/math22a2018/handouts/lecture02.pdf.
+(4) Applications of the Gauss-Jordan elimination method. https://math.stackexchange.com/questions/4384338/applications-of-the-gauss-jordan-elimination-method.
+(5) M.7 Gauss-Jordan Elimination | STAT ONLINE - Statistics Online. https://online.stat.psu.edu/statprogram/reviews/matrix-algebra/gauss-jordan-elimination.
+(6) Gaussian Elimination and Gauss-Jordan Elimination Four-Variable Linear System. https://www.youtube.com/watch?v=bqrlKuA9nOg.
+(7) Gaussian Elimination and Gauss Jordan Elimination (Gauss Elimination Method). https://www.youtube.com/watch?v=AhUyh-2aPEc.
