@@ -1,0 +1,66 @@
+The FOIL method is a way to multiply two binomials. It stands for First, Outer, Inner, and Last. To use the FOIL method, simply multiply each term in the first binomial with each term in the second binomial. The product of the first terms is the first term in the expanded product, the product of the outer terms is the second term in the expanded product, the product of the inner terms is the third term in the expanded product, and the product of the last terms is the last term in the expanded product.
+
+For example, let's multiply the binomials $(x + 2)$ and $(x - 3)$ using the FOIL method:
+
+```
+FOIL:
+First: $x \times x = x^2$
+Outer: $x \times -3 = -3x$
+Inner: $2 \times x = 2x$
+Last: $2 \times -3 = -6$
+```
+
+Putting all of the terms together, we get the expanded product:
+
+```
+(x + 2)(x - 3) = x^2 - 3x + 2x - 6
+```
+
+We can combine like terms to get the final answer:
+
+```
+x^2 - 3x + 2x - 6 = x^2 - x - 6
+```
+
+## Applications of FOIL
+
+The FOIL method can be used in a variety of applications, such as:
+
+* **Simplifying expressions:** The FOIL method can be used to simplify complex expressions that involve multiplying two binomials. For example, we can use the FOIL method to simplify the expression $(3x + 2)(2x - 1)$ to get $6x^2 - 2x - 2$.
+* **Factoring quadratic expressions:** The FOIL method can also be used to factor quadratic expressions. For example, we can use the FOIL method to factor the quadratic expression $x^2 + 7x + 12$ to get $(x + 3)(x + 4)$.
+* **Solving quadratic equations:** The FOIL method can also be used to solve quadratic equations. For example, we can use the FOIL method to solve the quadratic equation $x^2 + 7x + 12 = 0$ by factoring the expression and then setting each factor equal to zero.
+
+Here is an example of how to use the FOIL method to solve a quadratic equation:
+
+```
+Solve the quadratic equation $x^2 + 7x + 12 = 0$.
+
+**Step 1: Factor the expression.**
+
+We can use the FOIL method to factor the expression $x^2 + 7x + 12$ as $(x + 3)(x + 4)$.
+
+**Step 2: Set each factor equal to zero and solve for x.**
+
+```
+(x + 3)(x + 4) = 0
+```
+
+```
+x + 3 = 0
+```
+
+```
+x = -3
+```
+
+```
+x + 4 = 0
+```
+
+```
+x = -4
+
+
+Therefore, the solutions to the quadratic equation $x^2 + 7x + 12 = 0$ are $x = -3$ and $x = -4$.
+
+The FOIL method is a versatile tool that can be used in a variety of applications. It is a good skill to know for any student of algebra.
