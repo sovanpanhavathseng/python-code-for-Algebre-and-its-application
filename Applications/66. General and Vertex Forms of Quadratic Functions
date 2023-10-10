@@ -1,0 +1,83 @@
+**General Form of Quadratic Functions**
+
+The general form of a quadratic function is:
+
+```
+y = ax^2 + bx + c
+```
+
+where a, b, and c are real numbers and a ≠ 0.
+
+This form is useful for solving quadratic equations and finding the roots of a parabola. However, it can be difficult to interpret the graph of a quadratic function from this form.
+
+**Vertex Form of Quadratic Functions**
+
+The vertex form of a quadratic function is:
+
+```
+y = a(x - h)^2 + k
+```
+
+where a, h, and k are real numbers and (h, k) is the vertex of the parabola.
+
+This form is more useful for interpreting the graph of a quadratic function, because the vertex of the parabola is the point where the function changes direction.
+
+**Conversion Between General and Vertex Forms**
+
+To convert a quadratic function from general form to vertex form, we can use the process of completing the square. This process involves adding a constant term to both sides of the equation so that the left-hand side can be factored as a perfect square trinomial.
+
+For example, to convert the quadratic function y = 2x^2 - 4x + 5 to vertex form, we would first move the constant term to the right-hand side of the equation:
+
+```
+y = 2x^2 - 4x - 5
+```
+
+Next, we would factor out a 2 from the left-hand side:
+
+```
+y = 2(x^2 - 2x) - 5
+```
+
+Then, we would complete the square by adding (1/2)^2 = 1/4 to both sides of the equation:
+
+```
+y = 2(x^2 - 2x + 1/4) - 5 - 1/4
+```
+
+Finally, we would factor the left-hand side as a perfect square trinomial:
+
+```
+y = 2(x - 1)^2 - 9/4
+```
+
+This is the vertex form of the quadratic function, and we can see that the vertex of the parabola is (1, -9/4).
+
+**Applications of Quadratic Functions**
+
+Quadratic functions have many applications in the real world. For example, they can be used to model the following:
+
+* The trajectory of a projectile
+* The cost of producing a certain number of items
+* The area of a rectangle with a given perimeter
+* The profit of a company as a function of the number of units sold
+
+Quadratic functions can also be used to solve optimization problems, such as finding the maximum or minimum value of a function.
+
+Here is an example of an application of a quadratic function:
+
+A company produces widgets. The cost of producing x widgets is given by the quadratic function:
+
+```
+C(x) = 2x^2 + 40x + 1000
+```
+
+To find the number of widgets that the company should produce to minimize the cost, we can set the derivative of C(x) equal to zero and solve for x:
+
+```
+C'(x) = 4x + 40 = 0
+x = -10
+```
+
+However, producing a negative number of widgets is not possible, so the minimum cost is achieved when the company produces 0 widgets.
+
+This is just one example of the many ways that quadratic functions can be used to model real-world phenomena and solve problems.
