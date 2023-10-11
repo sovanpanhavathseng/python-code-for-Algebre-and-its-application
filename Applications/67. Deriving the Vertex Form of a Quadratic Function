@@ -1,0 +1,59 @@
+To derive the vertex form of a quadratic function, we can start with the general form of a quadratic function:
+
+```
+f(x) = ax^2 + bx + c
+```
+
+We can complete the square by adding a constant term to both sides of the equation in such a way that the left-hand side of the equation becomes a perfect square trinomial.
+
+To do this, we first need to find the square of half of the coefficient of our x term. The coefficient of our x term is b, so half of it is b/2, and the square of b/2 is b^2/4. Therefore, we add b^2/4 to both sides of the equation:
+
+```
+f(x) + b^2/4 = ax^2 + bx + c + b^2/4
+```
+
+We can now rewrite the left-hand side of the equation as a perfect square trinomial:
+
+```
+f(x) + b^2/4 = a(x + b/2a)^2
+```
+
+Subtracting b^2/4 from both sides of the equation and rearranging, we get the quadratic function in vertex form:
+
+```
+f(x) = a(x + b/2a)^2 - b^2/4a
+```
+
+This form of the quadratic function is known as the vertex form because the vertex of the parabola is located at the point (-b/2a, -b^2/4a).
+
+**Application of the Vertex Form of a Quadratic Function**
+
+The vertex form of a quadratic function is particularly useful for finding the vertex of the parabola and for graphing the function.
+
+To find the vertex of the parabola, we simply plug the values of b/2a and -b^2/4a into the vertex form of the quadratic function.
+
+**Example:**
+
+Find the vertex of the parabola represented by the quadratic function f(x) = 2(x + 3)^2 - 12.
+
+**Solution:**
+
+Comparing the given quadratic function to the vertex form of a quadratic function, we see that the vertex is the point (-b/2a, -b^2/4a) = (-3, -9).
+
+Therefore, the vertex of the parabola is (-3, -9).
+
+The vertex form of a quadratic function can also be used to graph the function. To do this, we can simply plot the vertex of the parabola and then sketch the parabola so that it passes through the vertex and is symmetric about the vertical axis.
+
+**Example:**
+
+Graph the quadratic function f(x) = 2(x + 3)^2 - 12.
+
+**Solution:**
+
+The vertex of the parabola is (-3, -9), so we plot this point on the coordinate plane. Then, we sketch the parabola so that it passes through the vertex and is symmetric about the vertical axis.
+
+The graph of the parabola is shown below:
+
+[Image of a parabola with a vertex at (-3, -9)]
+
+As you can see, the vertex form of a quadratic function is a very useful tool for understanding and manipulating quadratic functions.
