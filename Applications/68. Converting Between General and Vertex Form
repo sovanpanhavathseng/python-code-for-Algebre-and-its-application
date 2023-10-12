@@ -1,0 +1,108 @@
+Converting between general and vertex form is a useful skill in algebra, as it can help us to better understand and manipulate quadratic functions. General form is the most common form for quadratic functions, and it is written as follows:
+
+```
+y = ax^2 + bx + c
+```
+
+where a, b, and c are real numbers and a does not equal zero.
+
+Vertex form is a special form of a quadratic function that is centered at its vertex. It is written as follows:
+
+```
+y = a(x - h)^2 + k
+```
+
+where a, h, and k are real numbers and a does not equal zero.
+
+**Converting from general to vertex form**
+
+To convert a quadratic function from general to vertex form, we can use the following steps:
+
+1. Complete the square. This involves adding a constant value to both sides of the equation so that the left side of the equation can be written as a perfect square.
+2. Factor the left side of the equation as a perfect square.
+3. Isolate the y term on the left side of the equation.
+4. Rewrite the equation in vertex form.
+
+**Converting from vertex to general form**
+
+To convert a quadratic function from vertex to general form, we can use the following steps:
+
+1. Expand the left side of the equation.
+2. Combine like terms.
+3. Rewrite the equation in general form.
+
+**Applications of converting between general and vertex form**
+
+Converting between general and vertex form can be useful for a variety of applications, including:
+
+* **Graphing quadratic functions:** Vertex form is the most convenient form for graphing quadratic functions, as it allows us to easily identify the vertex and axis of symmetry of the parabola.
+* **Analyzing quadratic functions:** Vertex form can be used to analyze the properties of quadratic functions, such as their range and extremum points.
+* **Solving quadratic equations:** Vertex form can be used to solve quadratic equations by completing the square or using the quadratic formula.
+
+Here is an example of how to convert a quadratic function from general to vertex form:
+
+**Problem:** Convert the following quadratic function from general to vertex form:
+
+```
+y = x^2 + 6x + 9
+```
+
+**Solution:**
+
+1. Complete the square. To do this, we need to add half of the coefficient of our x term squared to both sides of the equation. The coefficient of our x term is 6, so half of it would be 3. Therefore, we add 9 to both sides of the equation:
+
+```
+y + 9 = x^2 + 6x + 9 + 9
+```
+
+2. Factor the left side of the equation as a perfect square. The left side of the equation is now a perfect square trinomial, so we can factor it as follows:
+
+```
+(y + 9) = (x + 3)^2
+```
+
+3. Isolate the y term on the left side of the equation. To do this, we subtract 9 from both sides of the equation:
+
+```
+y = (x + 3)^2 - 9
+```
+
+4. Rewrite the equation in vertex form. The equation is now in vertex form, with the vertex at (-3, -9):
+
+```
+y = a(x - h)^2 + k
+```
+
+where a = 1, h = -3, and k = -9.
+
+Here is an example of how to convert a quadratic function from vertex to general form:
+
+**Problem:** Convert the following quadratic function from vertex to general form:
+
+```
+y = (x + 2)^2 - 7
+```
+
+**Solution:**
+
+1. Expand the left side of the equation.
+
+```
+y = (x^2 + 4x + 4) - 7
+```
+
+2. Combine like terms.
+
+```
+y = x^2 + 4x - 3
+```
+
+3. Rewrite the equation in general form. The equation is now in general form:
+
+```
+y = ax^2 + bx + c
+```
+
+where a = 1, b = 4, and c = -3.
+
+Converting between general and vertex form is a valuable skill in algebra, and it can be used for a variety of applications.
