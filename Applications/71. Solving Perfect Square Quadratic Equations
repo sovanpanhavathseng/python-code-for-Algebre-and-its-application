@@ -1,0 +1,77 @@
+**Solving Perfect Square Quadratic Equations**
+
+A perfect square quadratic equation is a quadratic equation that can be written in the form:
+
+```
+(x + a)^2 = b
+```
+
+where a and b are constants. To solve this type of equation, we can simply take the square root of both sides:
+
+```
+x + a = +/- sqrt(b)
+```
+
+and then subtract a from both sides to find the solutions:
+
+```
+x = -a +/- sqrt(b)
+```
+
+For example, to solve the equation $(x - 3)^2 = 16$, we would first take the square root of both sides:
+
+```
+x - 3 = +/- sqrt(16)
+```
+
+and then subtract 3 from both sides to find the solutions:
+
+```
+x = 3 +/- 4
+```
+
+Therefore, the solutions to the equation $(x - 3)^2 = 16$ are $x = 7$ and $x = -1$.
+
+**Application of Perfect Square Quadratic Equations**
+
+Perfect square quadratic equations have many applications in the real world. For example, they can be used to solve problems involving projectiles, motion under gravity, and the areas and volumes of geometric shapes.
+
+Here is an example of how to use a perfect square quadratic equation to solve a real-world problem:
+
+**Problem:** A projectile is fired vertically upwards with an initial velocity of 50 m/s. What is the maximum height that the projectile will reach?
+
+**Solution:** To solve this problem, we can use the following equation:
+
+```
+h = v_0t - 1/2gt^2
+```
+
+where h is the height of the projectile, v_0 is the initial velocity, t is the time, and g is the acceleration due to gravity (9.81 m/s^2).
+
+We want to find the maximum height that the projectile will reach, so we need to find the value of t that maximizes the value of h. To do this, we can set the derivative of h with respect to t equal to zero:
+
+```
+dh/dt = v_0 - gt = 0
+```
+
+Solving for t, we get:
+
+```
+t = v_0 / g
+```
+
+Substituting this value of t back into the original equation, we get:
+
+```
+h_max = v_0^2 / 2g
+```
+
+Plugging in the values for v_0 and g, we get:
+
+```
+h_max = 50^2 / 2 * 9.81 = 127.5 meters
+```
+
+Therefore, the maximum height that the projectile will reach is 127.5 meters.
+
+This is just one example of how perfect square quadratic equations can be used to solve real-world problems.
