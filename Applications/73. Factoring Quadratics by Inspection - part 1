@@ -1,0 +1,34 @@
+Factoring quadratics by inspection is a method of finding the factors of a quadratic expression by looking at the coefficients of the expression. It is a relatively quick and easy method, but it only works in certain cases.
+
+To factor a quadratic expression by inspection, we first need to look at the coefficient of the $x^2$ term. If the coefficient of the $x^2$ term is 1, then we can try to find two numbers that add up to the coefficient of the $x$ term and multiply to the constant term. For example, to factor the quadratic expression $x^2 + 5x + 6$, we would look for two numbers that add up to 5 and multiply to 6. These numbers are 2 and 3, so we can factor the expression as $(x + 2)(x + 3)$.
+
+If the coefficient of the $x^2$ term is not 1, then we can try to factor the expression by grouping. To do this, we first need to find two numbers that multiply to the coefficient of the $x^2$ term and add up to the coefficient of the $x$ term. For example, to factor the quadratic expression $2x^2 + 5x + 6$, we would look for two numbers that multiply to 12 and add up to 5. These numbers are 2 and 3, so we can factor the expression as $(2x + 2)(x + 3)$.
+
+Here are some examples of how to factor quadratics by inspection:
+
+* $x^2 + 5x + 6 = (x + 2)(x + 3)$
+* $x^2 - 7x + 12 = (x - 3)(x - 4)$
+* $2x^2 + 5x + 6 = (2x + 2)(x + 3)$
+* $3x^2 - 4x + 1 = (3x - 1)(x - 1)$
+
+Factoring quadratics by inspection can be a very useful method, but it is important to remember that it only works in certain cases. If the coefficient of the $x^2$ term is not 1, or if the two numbers that multiply to the coefficient of the $x^2$ term and add up to the coefficient of the $x$ term are not rational numbers, then we will need to use a different method to factor the quadratic expression.
+
+Here are some applications of factoring quadratics by inspection:
+
+* Solving quadratic equations: Once we have factored a quadratic expression, we can solve the corresponding quadratic equation by setting each factor equal to zero and solving the resulting linear equations. For example, to solve the quadratic equation $x^2 + 5x + 6 = 0$, we would first factor the expression as $(x + 2)(x + 3)$. Then, we would set each factor equal to zero and solve the resulting linear equations:
+
+```
+x + 2 = 0
+x = -2
+
+x + 3 = 0
+x = -3
+```
+
+Therefore, the solutions to the quadratic equation $x^2 + 5x + 6 = 0$ are $x = -2$ and $x = -3$.
+
+* Finding the zeros of a quadratic function: The zeros of a quadratic function are the values of $x$ that make the function equal to zero. We can find the zeros of a quadratic function by factoring the quadratic expression and setting each factor equal to zero. For example, the zeros of the quadratic function $f(x) = x^2 + 5x + 6$ are $x = -2$ and $x = -3$.
+
+* Finding the vertex of a quadratic function: The vertex of a quadratic function is the point where the function changes from increasing to decreasing or vice versa. We can find the vertex of a quadratic function by factoring the quadratic expression and using the vertex formula. For example, the vertex of the quadratic function $f(x) = x^2 + 5x + 6$ is $(-2.5, -1)$.
+
+Factoring quadratics by inspection is a powerful tool that can be used to solve a variety of algebraic problems. It is important to understand how to factor quadratics by inspection and how to apply this method to solving problems.
