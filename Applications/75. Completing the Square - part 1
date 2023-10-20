@@ -1,0 +1,112 @@
+**Completing the Square - Part 1**
+
+Completing the square is a method for solving quadratic equations that involves changing the equation into a form that is easier to solve. It can also be used to find the vertex of a parabola.
+
+To complete the square, we start by writing the quadratic equation in the form:
+
+```
+ax^2 + bx + c = 0
+```
+
+where a is not equal to 0.
+
+Next, we divide both sides of the equation by a, so that the coefficient of the x^2 term is 1. This gives us:
+
+```
+x^2 + bx/a + c/a = 0
+```
+
+Now, we want to add a constant to both sides of the equation that will make the left side a perfect square trinomial. To do this, we first need to find half of the coefficient of the x term, and then square it. For example, if the coefficient of the x term is 4, then half of it would be 2, and squaring it would give us 4.
+
+So, we add 4/4 (or 1) to both sides of the equation. This gives us:
+
+```
+x^2 + bx/a + c/a + 1/4 = 0 + 1/4
+```
+
+We can now rewrite the left side of the equation as a perfect square trinomial:
+
+```
+(x + b/2a)^2 = 1/4
+```
+
+Taking the square root of both sides, we get:
+
+```
+x + b/2a = +/- sqrt(1/4)
+```
+
+Isolating x, we get:
+
+```
+x = -b/2a +/- 1/2
+```
+
+This is the solution to the quadratic equation, found using the method of completing the square.
+
+**Application of Completing the Square**
+
+Completing the square can be used to solve any quadratic equation, regardless of whether it is factorable or not. It can also be used to find the vertex of a parabola.
+
+To find the vertex of a parabola, we first need to complete the square. Once we have done this, the vertex will be the point (-b/2a, c/a + b^2/4a^2).
+
+Here are some examples of how to use completing the square to solve quadratic equations and find the vertex of parabolas:
+
+**Example 1:** Solve the quadratic equation x^2 + 4x - 12 = 0.
+
+**Solution:** First, we divide both sides of the equation by 1, so that the coefficient of the x^2 term is 1:
+
+```
+x^2 + 4x - 12 = 0
+```
+
+Next, we complete the square. Half of the coefficient of the x term is 2, and squaring it gives us 4. So, we add 4/4 (or 1) to both sides of the equation:
+
+```
+x^2 + 4x - 12 + 1 = 0 + 1
+```
+
+We can now rewrite the left side of the equation as a perfect square trinomial:
+
+```
+(x + 2)^2 = 1
+```
+
+Taking the square root of both sides, we get:
+
+```
+x + 2 = +/- 1
+```
+
+Isolating x, we get:
+
+```
+x = -2 +/- 1
+```
+
+Therefore, the solutions to the quadratic equation are x = -1 and x = -3.
+
+**Example 2:** Find the vertex of the parabola given by the equation y = x^2 + 4x + 3.
+
+**Solution:** First, we need to complete the square. Half of the coefficient of the x term is 2, and squaring it gives us 4. So, we add 4/4 (or 1) to both sides of the equation:
+
+```
+y = x^2 + 4x + 3
+y + 1 = x^2 + 4x + 3 + 1
+```
+
+We can now rewrite the left side of the equation as a perfect square trinomial:
+
+```
+y + 1 = (x + 2)^2
+```
+
+Subtracting 1 from both sides, we get:
+
+```
+y = (x + 2)^2 - 1
+```
+
+Therefore, the vertex of the parabola is the point (-2, -1).
+
+Completing the square is a powerful tool for solving quadratic equations and finding the vertex
