@@ -1,0 +1,54 @@
+**Completing the Square - Part 2**
+
+In the previous part, we learned how to complete the square for a quadratic expression in the form of x² + bx. We can also complete the square for a quadratic expression in the form of ax² + bx + c.
+
+To do this, we first divide the entire expression by a, the coefficient of the x² term. This gives us an expression in the form of x² + (b/a)x + (c/a).
+
+We then follow the same steps as before to complete the square:
+
+1. Move the constant term to the right side of the equation.
+2. Take half of the coefficient of the x term and square it.
+3. Add the square to both sides of the equation.
+4. Factor the perfect square trinomial.
+
+The resulting expression will be in the form of a(x + h)² + k.
+
+**Application of Completing the Square**
+
+Completing the square can be used to solve quadratic equations. To do this, we first complete the square for the quadratic expression. We then take the square root of both sides of the equation. This gives us the solutions to the quadratic equation.
+
+For example, let's consider the quadratic equation x² + 4x - 5 = 0.
+
+First, we complete the square:
+
+x² + 4x = 5
+x² + 4x + 4 = 5 + 4
+(x + 2)² = 9
+
+Taking the square root of both sides, we get:
+
+x + 2 = ±3
+x = -2 ± 3
+x = 1 or x = -5
+
+Therefore, the solutions to the quadratic equation x² + 4x - 5 = 0 are x = 1 and x = -5.
+
+Completing the square can also be used to find the vertex of a parabola. The vertex of a parabola is the point where the axis of symmetry intersects the parabola.
+
+To find the vertex of a parabola, we first complete the square for the quadratic expression in the vertex form of the parabola. The vertex of the parabola is then given by the coordinates (h, k), where h is the coefficient of the x term and k is the constant term.
+
+For example, let's consider the parabola y = x² + 4x + 3.
+
+First, we complete the square:
+
+y = x² + 4x + 3
+y = (x + 2)² + 3 - 4
+y = (x + 2)² - 1
+
+The vertex of the parabola is then given by the coordinates (-2, -1).
+
+**In addition to solving quadratic equations and finding the vertex of a parabola, completing the square can also be used in a variety of other applications, such as:**
+
+* Finding the standard deviation of a set of data
+* Minimizing the sum of the squares of a set of residuals
+* Finding the eigenvalues and eigenvectors of a matrix
