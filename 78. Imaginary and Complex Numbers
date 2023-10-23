@@ -1,0 +1,21 @@
+**Imaginary numbers** are numbers of the form $bi$, where $i$ is the imaginary unit, defined as $i^2 = -1$. Imaginary numbers cannot be represented on the real number line, but they can be visualized using the complex plane, which has a real axis and an imaginary axis.
+
+**Complex numbers** are numbers of the form $z = a + bi$, where $a$ is the real part of the number and $bi$ is the imaginary part. Complex numbers can be added, subtracted, multiplied, and divided, just like real numbers.
+
+**Applications of imaginary and complex numbers:**
+
+* **Electrical engineering:** Complex numbers are used to analyze AC circuits, which are circuits that use alternating current.
+* **Quantum mechanics:** Complex numbers are used to describe the wave functions of particles, which are mathematical functions that describe the probability of finding a particle at a given location.
+* **Signal processing:** Complex numbers are used to process signals, such as audio and video signals.
+* **Control theory:** Complex numbers are used to design and analyze control systems, which are systems that are used to control the behavior of other systems.
+* **Computer science:** Complex numbers are used in a variety of computer science applications, such as computer graphics, cryptography, and machine learning.
+
+Here are some specific examples of how imaginary and complex numbers are used in the real world:
+
+* **Cell phone towers:** Cell phone towers use complex numbers to calculate the best way to transmit signals to cell phones.
+* **MRI machines:** MRI machines use complex numbers to create images of the inside of the body.
+* **GPS:** GPS satellites use complex numbers to calculate their location and transmit that information to GPS receivers.
+* **Quantum computers:** Quantum computers use complex numbers to perform calculations that are impossible for classical computers.
+* **Financial markets:** Financial analysts use complex numbers to model the behavior of financial markets.
+
+Imaginary and complex numbers may seem abstract at first, but they are essential tools for many scientists and engineers. They are used to solve a wide range of problems in a variety of fields, from electrical engineering to quantum physics.
