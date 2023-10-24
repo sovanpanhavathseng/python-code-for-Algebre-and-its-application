@@ -1,0 +1,33 @@
+To add or subtract complex numbers, we simply add or subtract the real and imaginary parts separately. For example, to add the complex numbers $z = 3 + 4i$ and $w = -5 + 7i$, we do the following:
+
+```
+z + w = (3 - 5) + (4 + 7)i = -2 + 11i
+```
+
+To subtract the complex numbers $z = 3 + 4i$ and $w = -5 + 7i$, we do the following:
+
+```
+z - w = (3 + 5) + (4 - 7)i = 8 - 3i
+```
+
+Complex numbers have many applications in mathematics, physics, and engineering. Here are a few examples:
+
+* **Electrical engineering:** Complex numbers are used to analyze and design electrical circuits. For example, the impedance of an AC circuit is a complex number.
+* **Quantum mechanics:** Complex numbers are used to describe the behavior of quantum particles. For example, the wave function of a quantum particle is a complex function.
+* **Signal processing:** Complex numbers are used to analyze and process signals, such as audio and video signals. For example, the Fourier transform of a signal is a complex function.
+
+Here is a specific example of how complex numbers can be used in electrical engineering:
+
+Suppose we have an AC circuit with a resistor $R$, an inductor $L$, and a capacitor $C$. The impedance of the circuit is given by the following complex number:
+
+```
+Z = R + i(ωL - 1/(ωC))
+```
+
+where ω is the angular frequency of the AC current.
+
+The impedance of the circuit determines how much current will flow through the circuit for a given voltage. We can use complex number analysis to design the circuit so that the impedance has the desired value at the desired frequency.
+
+For example, we might want to design a circuit that has a high impedance at a certain frequency. This would block the current from flowing through the circuit at that frequency. This is useful for designing filters that can block unwanted frequencies from passing through a circuit.
+
+Complex numbers are a powerful tool that has many applications in mathematics, physics, and engineering.
