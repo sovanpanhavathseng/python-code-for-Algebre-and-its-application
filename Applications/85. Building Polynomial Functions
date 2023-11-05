@@ -1,0 +1,44 @@
+**Building Polynomial Functions**
+
+Polynomial functions are mathematical expressions that are the sum of monomial terms, where each monomial term is a product of a coefficient and a variable raised to a non-negative integer power. For example, the following are polynomial functions:
+
+```
+f(x) = 2x^2 + 3x + 1
+g(x) = x^3 - 4x^2 + 7x - 5
+h(x) = 1
+```
+
+The highest power of the variable in a polynomial function is called the degree of the function. For example, the degree of the function `f(x) = 2x^2 + 3x + 1` is 2.
+
+There are many ways to build polynomial functions. One common way is to start with a simpler function, such as a linear function, and then add or multiply monomial terms to it. For example, the function `f(x) = 2x^2 + 3x + 1` can be built by starting with the linear function `f(x) = 3x` and then adding the monomial terms `2x^2` and `1`.
+
+Another way to build polynomial functions is to use the factor theorem. The factor theorem states that if `c` is a root of a polynomial function `f(x)`, then the linear factor `x - c` is a factor of `f(x)`. This means that we can build a polynomial function with roots at specific points by multiplying together linear factors of the form `x - c`.
+
+**Applications of Polynomial Functions**
+
+Polynomial functions are used in a wide variety of fields, including mathematics, engineering, science, and finance. Some specific examples of applications of polynomial functions include:
+
+* **Modeling real-world phenomena:** Polynomial functions can be used to model a wide variety of real-world phenomena, such as the motion of a projectile, the growth of a population, and the spread of a disease.
+* **Interpolation and extrapolation:** Polynomial functions can be used to interpolate and extrapolate data. Interpolation is the process of estimating the value of a function at a point between known data points. Extrapolation is the process of estimating the value of a function at a point outside of the known data points.
+* **Solving equations:** Polynomial functions can be used to solve a variety of equations, including linear equations, quadratic equations, and cubic equations.
+* **Designing and analyzing algorithms:** Polynomial functions can be used to design and analyze algorithms for solving a variety of problems.
+
+**Example:**
+
+Suppose we want to build a polynomial function that models the trajectory of a projectile. We know that the projectile's motion is governed by the following equation:
+
+```
+f(x) = -4.9x^2 + v0x + h0
+```
+
+where `v0` is the initial velocity of the projectile and `h0` is the initial height of the projectile. We can use this equation to build a polynomial function that models the trajectory of the projectile for any given set of initial conditions.
+
+For example, suppose we want to model the trajectory of a projectile that is launched with an initial velocity of 10 m/s and an initial height of 5 m. We can plug these values into the equation above to get the following polynomial function:
+
+```
+f(x) = -4.9x^2 + 10x + 5
+```
+
+This polynomial function can then be used to predict the height of the projectile at any point in time.
+
+Polynomial functions are a powerful tool for modeling and analyzing a wide variety of real-world phenomena. By understanding how to build and use polynomial functions, we can gain a deeper understanding of the world around us.
