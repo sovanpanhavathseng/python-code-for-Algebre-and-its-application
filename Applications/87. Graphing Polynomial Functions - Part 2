@@ -1,0 +1,51 @@
+**Graphing Polynomial Functions - Part 2**
+
+In Part 1 of this series, we discussed the basics of graphing polynomial functions, including finding the x- and y-intercepts and understanding the end behavior of the graph. In this part, we will discuss some more advanced techniques for graphing polynomial functions, such as:
+
+* **Analyzing the behavior of the graph near the x-intercepts:** The multiplicity of a zero of a polynomial function tells us how the graph behaves near that zero. For example, if the multiplicity of a zero is 1, then the graph crosses the x-axis at that point. If the multiplicity of a zero is 2, then the graph touches the x-axis at that point and then turns around. And if the multiplicity of a zero is greater than 2, then the graph oscillates near that point without ever crossing or touching the x-axis.
+* **Using the Rational Root Theorem:** The Rational Root Theorem can be used to find some of the rational zeros of a polynomial function. This can be helpful in simplifying the function and making it easier to graph.
+* **Using synthetic division:** Synthetic division can be used to divide a polynomial function by a linear factor. This can be helpful in finding the zeros of the function and understanding its behavior near those zeros.
+
+**Application of Graphing Polynomial Functions**
+
+Polynomial functions can be used to model a wide variety of real-world phenomena. For example, they can be used to model the following:
+
+* The trajectory of a projectile
+* The growth of a population
+* The spread of a disease
+* The cost of producing goods and services
+* The profit of a company
+
+Once we have a polynomial function that models a particular phenomenon, we can use its graph to make predictions about that phenomenon. For example, we can use the graph of the trajectory of a projectile to predict where it will land. Or, we can use the graph of the growth of a population to predict how large the population will be in the future.
+
+**Example**
+
+Consider the following polynomial function:
+
+```
+f(x) = x^3 - 4x^2 + 4x - 4
+```
+
+We can use the Rational Root Theorem to find that f(x) has a rational zero of 1. We can then use synthetic division to divide f(x) by (x - 1), which gives us the following quotient:
+
+```
+f(x) = (x - 1)(x^2 - 3x + 4)
+```
+
+The quadratic factor on the right-hand side of the equation can be factored further to give us:
+
+```
+f(x) = (x - 1)(x - 4)(x - 1)
+```
+
+This tells us that f(x) has zeros at x = 1 and x = 4, each with a multiplicity of 1.
+
+We can now use this information to sketch the graph of f(x). The graph will cross the x-axis at x = 1 and x = 4, and it will touch the x-axis at x = 1. The graph will also oscillate near the x-axis without ever crossing or touching it at x = 4.
+
+Here is a sketch of the graph of f(x):
+
+[Plot of f(x)]
+
+**Conclusion**
+
+Graphing polynomial functions can be a powerful tool for understanding and modeling real-world phenomena. By using the techniques discussed in this article, we can sketch the graphs of polynomial functions and make predictions about the phenomena that they model.
