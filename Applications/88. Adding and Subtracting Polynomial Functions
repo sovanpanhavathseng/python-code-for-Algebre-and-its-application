@@ -1,0 +1,33 @@
+Adding and subtracting polynomial functions is a fundamental skill in algebra. It is used to simplify expressions, solve equations, and model real-world problems.
+
+**Adding and Subtracting Polynomial Functions**
+
+To add or subtract polynomial functions, we simply add or subtract the corresponding terms. For example, to add the polynomials $3x^2 + 2x + 5$ and $-x^2 - 4x + 3$, we would add the corresponding coefficients:
+
+```
+3x^2 + 2x + 5 - (-x^2 - 4x + 3) = 4x^2 + 6x + 8
+```
+
+Similarly, to subtract the polynomial $-x^2 - 4x + 3$ from the polynomial $3x^2 + 2x + 5$, we would subtract the corresponding coefficients:
+
+```
+3x^2 + 2x + 5 - (-x^2 - 4x + 3) = 4x^2 + 6x + 2
+```
+
+**Applications**
+
+Adding and subtracting polynomial functions has many applications in real-world problems. For example, it can be used to:
+
+* **Model the motion of an object:** The position of an object can be modeled by a polynomial function of time. By adding or subtracting polynomial functions, we can find the position, velocity, and acceleration of the object.
+* **Solve systems of equations:** A system of equations can be solved by adding or subtracting the equations in such a way that one of the variables is eliminated.
+* **Simplify expressions:** Adding or subtracting polynomial functions can often be used to simplify expressions. For example, the expression $3x^2 + 2x + 5 - (-x^2 - 4x + 3)$ can be simplified to $4x^2 + 6x + 8$.
+
+**Example**
+
+A company is planning to manufacture a new product. The company estimates that the cost of producing $x$ units of the product will be given by the polynomial $3x^2 + 2x + 5$. The company also estimates that the revenue from selling $x$ units of the product will be given by the polynomial $-x^2 - 4x + 3$. To find the profit from selling $x$ units of the product, we need to subtract the cost from the revenue. This gives us the following expression:
+
+```
+(-x^2 - 4x + 3) - (3x^2 + 2x + 5) = -4x^2 - 6x - 2
+```
+
+This expression shows that the profit from selling $x$ units of the product is $-4x^2 - 6x - 2$. The company can use this expression to determine how many units of the product it should produce in order to maximize its profit.
