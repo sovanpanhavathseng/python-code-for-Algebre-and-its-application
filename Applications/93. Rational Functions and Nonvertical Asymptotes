@@ -1,0 +1,29 @@
+Rational functions and nonvertical asymptotes are important concepts in mathematics with many real-world applications.
+
+**Rational Functions and Nonvertical Asymptotes**
+
+A rational function is any function that can be written as the ratio of two polynomials. For example, the function $f(x)=\frac{x}{x-1}$ is a rational function.
+
+A nonvertical asymptote of a rational function is a horizontal or oblique line that the graph of the function approaches as the $x$-value approaches positive or negative infinity. Nonvertical asymptotes occur when the degree of the numerator is less than or equal to the degree of the denominator of the rational function.
+
+To find the nonvertical asymptotes of a rational function, we can divide the numerator and denominator by the highest power of $x$ in the denominator. The resulting quotient is the equation of the nonvertical asymptote.
+
+**Applications of Rational Functions and Nonvertical Asymptotes**
+
+Rational functions and nonvertical asymptotes are used in many different areas of mathematics and science. For example, rational functions can be used to model the following:
+
+* The concentration of a chemical in a solution over time
+* The population of a species over time
+* The cost of producing a certain number of items at a large scale
+
+Nonvertical asymptotes can be used to understand the behavior of these models as the $x$-value approaches positive or negative infinity. For example, the nonvertical asymptote of the function that models the concentration of a chemical in a solution over time tells us that the concentration of the chemical will eventually reach a constant value.
+
+Here are some specific examples of how rational functions and nonvertical asymptotes are used in real-world applications:
+
+* **Chemistry:** Rational functions can be used to model the concentration of reactants and products in a chemical reaction. Nonvertical asymptotes can be used to predict the equilibrium concentration of the reactants and products.
+* **Biology:** Rational functions can be used to model the population of a species over time. Nonvertical asymptotes can be used to predict the carrying capacity of the environment for the species.
+* **Economics:** Rational functions can be used to model the cost of producing a certain number of items at a large scale. Nonvertical asymptotes can be used to predict the long-run average cost of producing the items.
+
+**Conclusion**
+
+Rational functions and nonvertical asymptotes are important concepts in mathematics with many real-world applications. By understanding these concepts, we can better understand and model the world around us.
