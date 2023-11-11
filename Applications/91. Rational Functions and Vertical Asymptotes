@@ -1,0 +1,28 @@
+**Rational Functions and Vertical Asymptotes**
+
+A rational function is a function that can be expressed as the quotient of two polynomials. For example, the function $f(x)=\frac{x}{x-1}$ is a rational function.
+
+A vertical asymptote of a rational function is a vertical line that the graph of the function approaches as the $x$-value approaches a certain value. Vertical asymptotes occur when the denominator of the rational function approaches zero.
+
+To find the vertical asymptotes of a rational function, we can factor the denominator and look for the values of $x$ that make the denominator equal to zero. For example, the denominator of the function $f(x)=\frac{x}{x-1}$ is $x-1$. Therefore, the function has a vertical asymptote at $x=1$.
+
+**Applications of Rational Functions and Vertical Asymptotes**
+
+Rational functions are used in many different areas of mathematics and science. For example, rational functions can be used to model the following:
+
+* The speed of a falling object
+* The concentration of a chemical in a solution
+* The population of a species over time
+* The cost of producing a certain number of items
+
+Vertical asymptotes can be used to understand the behavior of these models as the $x$-value approaches a certain value. For example, the vertical asymptote of the function that models the speed of a falling object at $x=0$ tells us that the speed of the object becomes infinite as it approaches the ground.
+
+Here are some specific examples of how rational functions and vertical asymptotes are used in real-world applications:
+
+* **Engineering:** Rational functions can be used to design bridges, buildings, and other structures. For example, engineers use rational functions to model the forces that act on a bridge and to design the bridge to withstand those forces.
+* **Medicine:** Rational functions can be used to model the concentration of drugs in the bloodstream and to determine the optimal dosage for a patient.
+* **Economics:** Rational functions can be used to model the relationship between supply and demand and to predict the price of goods and services.
+
+**Conclusion**
+
+Rational functions and vertical asymptotes are important concepts in mathematics with many real-world applications. By understanding these concepts, we can better understand and model the world around us.
