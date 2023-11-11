@@ -1,0 +1,25 @@
+**Rational Functions with Oblique or Curvilinear Asymptotes**
+
+A rational function is any function that can be written as the ratio of two polynomials. For example, the function $f(x)=\frac{x}{x-1}$ is a rational function.
+
+An oblique or curvilinear asymptote of a rational function is a line or curve that the graph of the function approaches as the $x$-value approaches positive or negative infinity. Oblique and curvilinear asymptotes occur when the degree of the numerator is greater than the degree of the denominator of the rational function.
+
+To find the oblique or curvilinear asymptotes of a rational function, we can use polynomial long division to divide the numerator by the denominator. The quotient of this division is the equation of the oblique or curvilinear asymptote.
+
+**Applications of Rational Functions with Oblique or Curvilinear Asymptotes**
+
+Rational functions with oblique or curvilinear asymptotes are used in a variety of applications, including:
+
+* **Engineering:** Rational functions with oblique or curvilinear asymptotes can be used to model the behavior of structures under load. For example, the deflection of a beam under load can be modeled by a rational function with an oblique asymptote.
+* **Physics:** Rational functions with oblique or curvilinear asymptotes can be used to model the behavior of physical systems over time. For example, the trajectory of a projectile can be modeled by a rational function with a curvilinear asymptote.
+* **Economics:** Rational functions with oblique or curvilinear asymptotes can be used to model the behavior of economic systems over time. For example, the demand for a product over time can be modeled by a rational function with an oblique asymptote.
+
+Here are some specific examples of how rational functions with oblique or curvilinear asymptotes are used in real-world applications:
+
+* **Engineers use rational functions with oblique asymptotes to model the deflection of bridges under load.** This information can be used to design bridges that are strong enough to withstand the expected loads.
+* **Physicists use rational functions with curvilinear asymptotes to model the trajectory of projectiles.** This information can be used to design weapons and other devices that need to launch objects with accuracy.
+* **Economists use rational functions with oblique asymptotes to model the demand for products over time.** This information can be used to forecast demand and make decisions about production and inventory.
+
+**Conclusion**
+
+Rational functions with oblique or curvilinear asymptotes are a powerful tool for modeling the behavior of systems in a variety of fields. By understanding these concepts, we can better understand and predict the behavior of the world around us.
